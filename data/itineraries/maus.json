@@ -1,0 +1,17 @@
+{
+ "person": "maus",
+ "stays": [
+  {
+   "place": "brussels",
+   "from": "1889-11-01",
+   "to": "1889-11-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "Secretary of Les Vingt",
+   "evidence": [
+    "let818",
+    "let821 n.1"
+   ]
+  }
+ ]
+}

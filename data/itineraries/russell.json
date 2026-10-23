@@ -1,0 +1,34 @@
+{
+ "person": "russell",
+ "stays": [
+  {
+   "place": "paris",
+   "from": "1888-01-01",
+   "to": "1888-05-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "let598 (19 Apr) hopes he will 'leave Paris for good soon'",
+   "evidence": [
+    "let598 n.3",
+    "let598",
+    "let646",
+    "inferred: end date set from Granchi-Taylor seeing him in Paris c. late May 1888, about to go to Belle-Ile (let646)"
+   ]
+  },
+  {
+   "place": "belle-ile",
+   "from": "1888-06-01",
+   "to": "1890-12-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Port-Goulphar, Belle-Ile-en-Mer; house under construction, family moved in summer 1888",
+   "evidence": [
+    "let857 n.5",
+    "let623 n.16",
+    "let647",
+    "let849 n.5",
+    "inferred: move date unknown; set after let646 (seen in Paris c. late May) and before let647 (Belle-Ile, 22 July)"
+   ]
+  }
+ ]
+}

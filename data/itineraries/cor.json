@@ -1,0 +1,15 @@
+{
+  "person": "cor",
+  "stays": [
+    { "place": "amsterdam", "from": "1873-01-01", "to": "1878-04-17", "kind": "residence", "approx": true,
+      "note": "Bookshop and art gallery, Keizersgracht 453 (later Leidsestraat 28). Villa Jovinda at Baarn was being built in 1874 and he lived there by May 1877",
+      "evidence": ["let004 n.2", "let019 n.4", "let106 n.4", "let109 n.2", "let115 n.13", "let158 n.11", "inferred: start bound arbitrary (first mention Jan 1873)"] },
+    { "place": "baarn", "from": "1878-04-18", "to": "1885-12-31", "kind": "residence",
+      "note": "Villa Jovinda, Prins Hendriklaan/Amalialaan G 72b, Baarn (registered 18 Apr 1878); business stayed in Amsterdam (Leidsestraat 28)",
+      "evidence": ["let158 n.11", "let135 n.18"] }
+  ],
+  "atLetters": {
+    "let107": { "place": "amsterdam", "evidence": ["let106 n.6", "let106 n.4", "let106", "let109 n.2"] },
+    "let525": { "place": "amsterdam", "evidence": ["let525", "let525 n.1"] }
+  }
+}

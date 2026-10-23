@@ -1,0 +1,18 @@
+{
+ "person": "furnee",
+ "stays": [
+  {
+   "place": "the-hague",
+   "from": "1883-01-01",
+   "to": "1885-12-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "H.J. Furnee's chemist's / artists' materials shop, Korte Poten 8. Key covers the father (RM13, let523) and the son Antoine, surveyor (let421), due to leave for Batavia on 14 Mar 1884",
+   "evidence": [
+    "let369 n.12",
+    "let421 n.1",
+    "let523 n.1"
+   ]
+  }
+ ]
+}

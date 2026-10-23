@@ -1,0 +1,1017 @@
+{
+ "person": "vincent",
+ "stays": [
+  {
+   "place": "the-hague",
+   "from": "1872-01-01",
+   "to": "1873-05-09",
+   "kind": "residence",
+   "note": "Clerk at Goupil & Cie, Plaats 14; boarded with Willem Marinus Roos, Lange Beestenmarkt 32",
+   "evidence": [
+    "let086 n.4",
+    "let001 n.5",
+    "let043 n.3",
+    "inferred: in The Hague since July 1869 (let086 n.4); letters 1-8 (Sept 1872-May 1873) all headed The Hague, so residence extended back to 1 Jan 1872"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1873-04-12",
+   "to": "1873-04-14",
+   "kind": "trip",
+   "approx": true,
+   "note": "Easter with his parents",
+   "evidence": [
+    "let005 n.2",
+    "inferred: Vincent and Theo were at the parsonage for Easter Sunday 13 April 1873; exact days unknown"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1873-05-10",
+   "to": "1873-05-11",
+   "kind": "residence",
+   "note": "Leave-taking at the parsonage before the transfer to London; left Helvoirt Monday 12 May",
+   "evidence": [
+    "let043 n.3",
+    "let008 n.1",
+    "let010 n.7"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1873-05-12",
+   "to": "1873-05-17",
+   "kind": "residence",
+   "approx": true,
+   "note": "En route to London; stopped in Paris for nearly a week",
+   "evidence": [
+    "let008 n.1",
+    "let008 n.5",
+    "let093 n.9",
+    "inferred: 'nearly a week' in Paris from 12 May; dined with the Wallis family in London around 18 May"
+   ]
+  },
+  {
+   "place": "london",
+   "from": "1873-05-18",
+   "to": "1873-08-19",
+   "kind": "residence",
+   "approx": true,
+   "note": "Goupil & Cie London branch; first boarding-house address unknown",
+   "evidence": [
+    "let093 n.9",
+    "let009 n.4",
+    "let013 n.3",
+    "inferred: arrival c. 18 May; move to Brixton 'last week' per father's letter of 25 Aug 1873"
+   ]
+  },
+  {
+   "place": "london",
+   "from": "1873-08-20",
+   "to": "1874-06-27",
+   "kind": "residence",
+   "approx": true,
+   "note": "Boarded with Ursula and Eugenie Loyer, 87 Hackford Road, Brixton",
+   "evidence": [
+    "let013 n.3",
+    "let023 n.1",
+    "let033 n.4"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1874-06-28",
+   "to": "1874-07-14",
+   "kind": "residence",
+   "note": "Summer holiday at the parsonage; returned to London with his sister Anna",
+   "evidence": [
+    "let023 n.1",
+    "let024 n.2",
+    "let026 n.4",
+    "inferred: left London 27 June, arrived Helvoirt 28 June; arrived back in London with Anna on Wednesday 15 July"
+   ]
+  },
+  {
+   "place": "london",
+   "from": "1874-07-15",
+   "to": "1874-10-25",
+   "kind": "residence",
+   "note": "From August with John and Mrs Parker, Ivy Cottage, 395 Kennington Road, Kennington (with Anna until she went to Welwyn)",
+   "evidence": [
+    "let026 n.4",
+    "let028 n.11",
+    "let092 n.7",
+    "let038 n.1"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1874-10-26",
+   "to": "1874-12-23",
+   "kind": "residence",
+   "approx": true,
+   "note": "Temporary transfer to Goupil & Cie headquarters",
+   "evidence": [
+    "let038 n.1",
+    "let072 n.3",
+    "let304 n.11",
+    "let033 n.4",
+    "inferred: arrived 26 Oct for a two-month transfer; exact departure for Helvoirt unknown"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1874-12-24",
+   "to": "1874-12-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Christmas with his parents",
+   "evidence": [
+    "let038 n.1",
+    "RM03 dateNote",
+    "inferred: spent Christmas 1874 with his parents, then returned to London; exact days unknown"
+   ]
+  },
+  {
+   "place": "london",
+   "from": "1875-01-01",
+   "to": "1875-05-14",
+   "kind": "residence",
+   "approx": true,
+   "note": "Ivy Cottage, 395 Kennington Road; Goupil's London branch moved to 25 Bedford Street in January",
+   "evidence": [
+    "let038 n.1",
+    "let092 n.7",
+    "let029 n.3",
+    "let033",
+    "inferred: back in London by early January (letter 29, after 3 Jan); last London letter 8 May, 'in Paris' by 24 May (let033 n.4)"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1875-05-15",
+   "to": "1876-03-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Goupil & Cie headquarters; room in Montmartre (address unknown); dismissed as from 1 April 1876. Left Paris Friday 31 March at 20.00",
+   "evidence": [
+    "let033 n.4",
+    "let034",
+    "let037 n.1",
+    "let074 n.4",
+    "inferred: transferred to Paris between letter 33 (London, 8 May) and his father's letter of 24 May saying he was in Paris"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1875-12-23",
+   "to": "1876-01-02",
+   "kind": "trip",
+   "approx": true,
+   "note": "Christmas at the parsonage (arrived 23 or 24 Dec; day trip to Uncle Cor in Amsterdam on 30 Dec); left for Paris on the morning of Monday 3 Jan",
+   "evidence": [
+    "let063 n.2",
+    "let065 n.2"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1876-04-01",
+   "to": "1876-04-14",
+   "kind": "residence",
+   "note": "Between jobs at the parsonage; left on Good Friday 14 April by the 16.00 train to Rotterdam",
+   "evidence": [
+    "let074 n.4",
+    "let073 n.1",
+    "let076 n.2"
+   ]
+  },
+  {
+   "place": "ramsgate",
+   "from": "1876-04-15",
+   "to": "1876-06-11",
+   "kind": "residence",
+   "note": "Assistant teacher at William Port Stokes's boarding school; crossed Rotterdam-Harwich on 15 April, arrived Ramsgate Sunday 16 April around 1 pm; left on foot Monday 12 June",
+   "evidence": [
+    "let076 n.2",
+    "let077",
+    "let084"
+   ]
+  },
+  {
+   "place": "isleworth",
+   "from": "1876-06-12",
+   "to": "1876-12-22",
+   "kind": "residence",
+   "approx": true,
+   "note": "Linkfield House, 183 Twickenham Road (Stokes) from the last week of June; from early July at Holme Court, 158 Twickenham Road, assistant to Rev. Thomas Slade-Jones",
+   "evidence": [
+    "let084",
+    "let085 dateNote",
+    "let085 n.1",
+    "let086 n.1",
+    "let100 n.1",
+    "inferred: residence begins when he left Ramsgate (walk and Welwyn visit modelled as trips); left for Christmas in Etten and never returned"
+   ]
+  },
+  {
+   "place": "london",
+   "from": "1876-06-12",
+   "to": "1876-06-13",
+   "kind": "trip",
+   "note": "Walk from Ramsgate via Canterbury (night 12 June) and Chatham to London, arriving the evening of 13 June",
+   "evidence": [
+    "let084",
+    "let084 n.2"
+   ]
+  },
+  {
+   "place": "welwyn",
+   "from": "1876-06-14",
+   "to": "1876-06-18",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visiting his sister Anna",
+   "evidence": [
+    "let084",
+    "let084 n.1",
+    "let085 dateNote",
+    "inferred: set out for Welwyn at 4 am after the night in London; left for Isleworth in the week of 18-24 June"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1876-12-23",
+   "to": "1877-01-02",
+   "kind": "residence",
+   "approx": true,
+   "note": "Christmas at the parsonage; the Dordrecht job was arranged during this stay",
+   "evidence": [
+    "let100 n.1",
+    "let100 n.4",
+    "let101 n.1",
+    "inferred: arrival date for Christmas 1876 unknown"
+   ]
+  },
+  {
+   "place": "dordrecht",
+   "from": "1877-01-03",
+   "to": "1877-05-01",
+   "kind": "residence",
+   "note": "Clerk at Blussé & Van Braam's bookshop; lodged with Pieter Rijken, Tolbrugstraat A 312. Left for Etten Wednesday 2 May",
+   "evidence": [
+    "let101 n.1",
+    "let102 n.4",
+    "let113"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1877-03-18",
+   "to": "1877-03-19",
+   "kind": "trip",
+   "note": "Visit to Amsterdam (with Theo)",
+   "evidence": [
+    "let109 n.2"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1877-04-01",
+   "to": "1877-04-01",
+   "kind": "trip",
+   "approx": true,
+   "note": "Easter at the parsonage with Theo",
+   "evidence": [
+    "let110 n.1",
+    "inferred: exact days of the Easter visit unknown"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1877-04-08",
+   "to": "1877-04-08",
+   "kind": "trip",
+   "note": "Left Dordrecht on the last train on Saturday 7 April to Oudenbosch, walked overnight to Zundert (cemetery at dawn on 8 April), then walked to Etten; left early on 9 April",
+   "evidence": [
+    "let110",
+    "let117 n.23",
+    "let124 n.11"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1877-05-02",
+   "to": "1877-05-08",
+   "kind": "residence",
+   "approx": true,
+   "note": "At the parsonage between Dordrecht and Amsterdam",
+   "evidence": [
+    "let113",
+    "let114 n.42",
+    "let137 n.38"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1877-05-08",
+   "to": "1877-05-08",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visit to Theo (and Mauve) on the way to Amsterdam",
+   "evidence": [
+    "let114 n.42",
+    "let137 n.38",
+    "inferred: 'shortly after 7 May' / 'second week of May'; exact day unknown"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1877-05-09",
+   "to": "1878-07-04",
+   "kind": "residence",
+   "approx": true,
+   "note": "Studying for the theology entrance exam; lived with Uncle Jan van Gogh, Grote Kattenburgerstraat 3, Navy Yard (Kattenburg)",
+   "evidence": [
+    "let112 n.9",
+    "let114 n.41",
+    "let139 n.2",
+    "let145 n.1",
+    "inferred: arrival in Amsterdam c. 9 May 1877; departure for Etten not dated in the edition (last Amsterdam letter 13 May 1878, first Etten letter 22 July 1878)"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1877-12-20",
+   "to": "1877-12-21",
+   "kind": "trip",
+   "approx": true,
+   "note": "Stopover in The Hague on the way to Etten (planned for Thursday or Friday 20/21 Dec)",
+   "evidence": [
+    "let137",
+    "let138",
+    "let139 n.7"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1877-12-22",
+   "to": "1878-01-06",
+   "kind": "trip",
+   "approx": true,
+   "note": "Christmas at the parsonage; travelled back to Amsterdam via The Hague on Monday 7 January",
+   "evidence": [
+    "let137",
+    "let138 n.1",
+    "let139 n.2"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1878-07-05",
+   "to": "1878-08-25",
+   "kind": "residence",
+   "approx": true,
+   "note": "At the parsonage after abandoning his studies; left for Brussels Monday 26 August",
+   "evidence": [
+    "let145 n.1",
+    "let145 n.15",
+    "let147 n.3",
+    "inferred: start date unknown; installed in the parsonage annexe by 18 July"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1878-07-16",
+   "to": "1878-07-17",
+   "kind": "trip",
+   "note": "With his father and Rev. Jones to the Flemish training college for evangelists; stayed with Mr Geerling",
+   "evidence": [
+    "let145 n.2"
+   ]
+  },
+  {
+   "place": "laeken",
+   "from": "1878-08-26",
+   "to": "1878-11-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "Flemish training college (place Sainte-Catherine, Brussels); boarded with Pieter Jacobus Plugge, 6 Chemin de Halage, Laken",
+   "evidence": [
+    "let147 n.3",
+    "let148 n.1",
+    "let148 n.27",
+    "let149 n.1",
+    "inferred: left for the Borinage 'around the beginning of December'"
+   ]
+  },
+  {
+   "place": "patureages",
+   "from": "1878-12-01",
+   "to": "1878-12-25",
+   "kind": "residence",
+   "approx": true,
+   "note": "First lodgings in the Borinage; post c/o colporteur Benjamin Vanderhaegen, Pâturages",
+   "evidence": [
+    "let149 n.1",
+    "let149 n.25",
+    "let149",
+    "inferred: father reported lodgings 'at Pâturages' (15 Dec); archival address rue de la place St Pierre 12, Pâturages; letter 149 of 26 Dec is the first headed Petit-Wasmes, so the switch is placed there"
+   ]
+  },
+  {
+   "place": "wasmes",
+   "from": "1878-12-26",
+   "to": "1879-07-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Evangelist at Petit-Wasmes; boarded with farmer Jean Baptiste Denis, rue du Petit-Wasmes 81 (and for a time in a hut)",
+   "evidence": [
+    "let149",
+    "let150 n.7",
+    "let151",
+    "let153 n.4",
+    "inferred: had left Wasmes for Cuesmes by the walk of 1 August (father's letter of 5 Aug)"
+   ]
+  },
+  {
+   "place": "cuesmes",
+   "from": "1879-08-01",
+   "to": "1880-09-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "First with evangelist Edouard Francq; later a room at miner Charles Decrucq's, rue du Pavillon 3",
+   "evidence": [
+    "let153",
+    "let153 n.4",
+    "let153 n.5",
+    "let155 n.31",
+    "let548 n.6",
+    "inferred: departure for Brussels 'early October 1880' (let548 n.6)"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1879-08-01",
+   "to": "1879-08-04",
+   "kind": "trip",
+   "note": "Left Friday 1 Aug, mostly on foot, via Sint-Maria-Horebeke (Sunday afternoon) to Rev. Pieterszen in Brussels (Sunday evening); back in Cuesmes after Monday 4 Aug",
+   "evidence": [
+    "let153 n.4"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1879-08-15",
+   "to": "1879-08-22",
+   "kind": "trip",
+   "approx": true,
+   "note": "Sudden visit to his parents (to Princenhage with his father c. 20 Aug)",
+   "evidence": [
+    "let154 dateNote",
+    "let154 n.2",
+    "inferred: arrived Friday 15 Aug; departure date unknown"
+   ]
+  },
+  {
+   "place": "courrieres",
+   "from": "1880-03-01",
+   "to": "1880-03-03",
+   "kind": "trip",
+   "approx": true,
+   "note": "Walk to see Jules Breton's studio",
+   "evidence": [
+    "let158",
+    "let158 n.8",
+    "let391",
+    "let387 n.13",
+    "inferred: 'three days and three nights at the beginning of March' on foot from Valenciennes and back to Mons; exact days unknown"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1880-03-06",
+   "to": "1880-03-20",
+   "kind": "trip",
+   "approx": true,
+   "note": "Stay with his parents",
+   "evidence": [
+    "let155 n.2",
+    "inferred: only attested day is 11 March 1880 ('Vincent is still here'); arrival and departure unknown, placed after the Courrières walk"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1880-10-01",
+   "to": "1881-04-26",
+   "kind": "residence",
+   "approx": true,
+   "note": "72 boulevard du Midi; enrolled at the Academy from November 1880",
+   "evidence": [
+    "let159 n.1",
+    "let548 n.6",
+    "let160 n.3",
+    "let166 n.2",
+    "inferred: returned to Brussels after Easter and settled in Etten a few days before letter 166 (30 Apr/1 May)"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1881-04-12",
+   "to": "1881-04-18",
+   "kind": "trip",
+   "approx": true,
+   "note": "Easter (17 April) at the parsonage with Theo",
+   "evidence": [
+    "let165",
+    "let165 n.1",
+    "let166 n.2"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1881-04-27",
+   "to": "1881-12-24",
+   "kind": "residence",
+   "approx": true,
+   "note": "Working as an artist at the parsonage; left after a quarrel with his father on Christmas Day",
+   "evidence": [
+    "let166",
+    "let166 n.2",
+    "let194 dateNote"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1881-08-23",
+   "to": "1881-08-25",
+   "kind": "trip",
+   "note": "Visit to Mauve and Tersteeg; then via Dordrecht back to Etten",
+   "evidence": [
+    "let171 n.1"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1881-11-24",
+   "to": "1881-11-26",
+   "kind": "trip",
+   "approx": true,
+   "note": "Three-day stay to try to see Kee Vos at the Strickers'",
+   "evidence": [
+    "let191 dateNote",
+    "let192 dateNote",
+    "let193"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1881-11-27",
+   "to": "1881-12-21",
+   "kind": "trip",
+   "approx": true,
+   "note": "Studying with Anton Mauve (arrived Sunday 27 Nov)",
+   "evidence": [
+    "let191 dateNote",
+    "let192 dateNote",
+    "let193 dateNote",
+    "inferred: returned to Etten c. 23 Dec (let192 dateNote); exact day unknown"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1881-12-25",
+   "to": "1882-06-06",
+   "kind": "residence",
+   "note": "Flat/studio at Schenkweg 138 from 1 January 1882",
+   "evidence": [
+    "let194 dateNote",
+    "let194 n.2"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1882-06-07",
+   "to": "1882-06-30",
+   "kind": "residence",
+   "note": "In the Municipal Hospital (Burgergasthuis), Zuidwal/Brouwersgracht, 4th class, ward 6, bed 9",
+   "evidence": [
+    "let237 n.1",
+    "let239",
+    "let241"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1882-07-01",
+   "to": "1883-09-10",
+   "kind": "residence",
+   "note": "Schenkweg 136, upstairs flat next to his previous one, with Sien Hoornik and her children",
+   "evidence": [
+    "let241",
+    "let243 n.1",
+    "let384 dateNote"
+   ]
+  },
+  {
+   "place": "hoogeveen",
+   "from": "1883-09-11",
+   "to": "1883-10-01",
+   "kind": "residence",
+   "note": "Lodging-house of Albertus Hartsuiker (probably Grote Kerksteeg 51)",
+   "evidence": [
+    "let384 dateNote",
+    "let385 dateNote",
+    "let385 n.2",
+    "let385 n.4"
+   ]
+  },
+  {
+   "place": "nieuw-amsterdam",
+   "from": "1883-10-02",
+   "to": "1883-12-04",
+   "kind": "residence",
+   "note": "Hendrik Scholte's lodging-house, district E no. 34 (Nieuw-Amsterdam/Veenoord); left on foot for Hoogeveen on 4 Dec",
+   "evidence": [
+    "let392 dateNote",
+    "let392 n.1",
+    "let395 n.1",
+    "let408 dateNote",
+    "let409 dateNote"
+   ]
+  },
+  {
+   "place": "hoogeveen",
+   "from": "1883-10-12",
+   "to": "1883-10-12",
+   "kind": "trip",
+   "note": "To collect Theo's remittance; back by barge on 12 or 13 Oct",
+   "evidence": [
+    "let394 dateNote",
+    "let395 dateNote"
+   ]
+  },
+  {
+   "place": "zweeloo",
+   "from": "1883-11-01",
+   "to": "1883-11-01",
+   "kind": "trip",
+   "note": "Day trip with Scholte, who was going to the Assen fair",
+   "evidence": [
+    "let402 dateNote",
+    "let402 n.3"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1883-12-05",
+   "to": "1885-11-23",
+   "kind": "residence",
+   "note": "Parents' parsonage (studio in the former mangle room); signed out of the Nuenen register 23 Nov 1885",
+   "evidence": [
+    "let409 dateNote",
+    "let476 n.6",
+    "let413 n.7",
+    "let543 n.1",
+    "let544 dateNote"
+   ]
+  },
+  {
+   "place": "utrecht",
+   "from": "1883-12-20",
+   "to": "1883-12-20",
+   "kind": "trip",
+   "note": "Day with Van Rappard",
+   "evidence": [
+    "let415 dateNote",
+    "let416 dateNote"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1883-12-21",
+   "to": "1883-12-24",
+   "kind": "trip",
+   "approx": true,
+   "note": "Packing up his things and seeing Sien; back in Nuenen by Christmas",
+   "evidence": [
+    "let416 dateNote",
+    "let416 n.1",
+    "let417 dateNote"
+   ]
+  },
+  {
+   "place": "eindhoven",
+   "from": "1885-03-27",
+   "to": "1885-03-27",
+   "kind": "trip",
+   "note": "Sent telegrams to Theo after his father's death on 26 March",
+   "evidence": [
+    "let486 dateNote",
+    "let486 n.1"
+   ]
+  },
+  {
+   "place": "eindhoven",
+   "from": "1885-07-27",
+   "to": "1885-07-27",
+   "kind": "trip",
+   "note": "Letter 521 headed Eindhoven",
+   "evidence": [
+    "let521 dateNote"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1885-10-06",
+   "to": "1885-10-08",
+   "kind": "trip",
+   "note": "Visit to the Rijksmuseum (with Kerssemakers); left Tuesday, back Thursday",
+   "evidence": [
+    "let533 dateNote",
+    "let534 dateNote",
+    "let527 n.5"
+   ]
+  },
+  {
+   "place": "antwerp",
+   "from": "1885-11-24",
+   "to": "1886-02-27",
+   "kind": "residence",
+   "approx": true,
+   "note": "Room on the second floor of 194 rue des Images; Academy student",
+   "evidence": [
+    "let543 n.1",
+    "let544 dateNote",
+    "let544 n.1",
+    "let567 dateNote"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1886-02-28",
+   "to": "1886-05-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "With Theo, 25 rue Laval",
+   "evidence": [
+    "let567 dateNote",
+    "let555 n.8",
+    "let569 n.9"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1886-06-01",
+   "to": "1888-02-19",
+   "kind": "residence",
+   "approx": true,
+   "note": "With Theo, 54 rue Lepic, Montmartre; left for Arles on the 21.40 train, Sunday 19 Feb 1888",
+   "evidence": [
+    "let569 n.9",
+    "let577 n.1",
+    "let577 n.3"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1888-02-20",
+   "to": "1888-05-06",
+   "kind": "residence",
+   "note": "Hotel-Restaurant Carrel, 30 rue Amédée-Pichot; rented the Yellow House as a studio from 1 May",
+   "evidence": [
+    "let577 dateNote",
+    "let577 n.1",
+    "let577 n.4",
+    "let606 n.1"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1888-05-07",
+   "to": "1888-09-16",
+   "kind": "residence",
+   "approx": true,
+   "note": "Lodged at the Café de la Gare (Joseph and Marie Ginoux), 30 place Lamartine; studio in the Yellow House",
+   "evidence": [
+    "let606 n.2",
+    "let602 n.3"
+   ]
+  },
+  {
+   "place": "saintes-maries-de-la-mer",
+   "from": "1888-05-31",
+   "to": "1888-06-04",
+   "kind": "trip",
+   "approx": true,
+   "note": "About a week by the sea; left Arles on 30 or 31 May, back the morning of c. 5 June",
+   "evidence": [
+    "let617 dateNote",
+    "let619 dateNote",
+    "let620 dateNote"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1888-09-17",
+   "to": "1888-12-23",
+   "kind": "residence",
+   "note": "The Yellow House, 2 place Lamartine (with Gauguin from late October)",
+   "evidence": [
+    "let606 n.2",
+    "let602 n.3",
+    "let602 n.17"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1888-12-24",
+   "to": "1889-01-06",
+   "kind": "residence",
+   "note": "Hôtel-Dieu (hospital) after the ear incident of 23 December; discharged 7 January",
+   "evidence": [
+    "let728 n.1",
+    "let750 n.4"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1889-01-07",
+   "to": "1889-02-06",
+   "kind": "residence",
+   "note": "Back in the Yellow House",
+   "evidence": [
+    "let728 n.1",
+    "let732 n.13",
+    "let747 n.1"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1889-02-07",
+   "to": "1889-05-07",
+   "kind": "residence",
+   "note": "Hôtel-Dieu again (readmitted 7 Feb and 26 Feb; from 18 Feb allowed out by day); stayed in hospital until leaving for Saint-Rémy on 8 May",
+   "evidence": [
+    "let747 n.1",
+    "let750 n.3",
+    "let750 n.4",
+    "let760 n.4"
+   ]
+  },
+  {
+   "place": "saint-remy",
+   "from": "1889-05-08",
+   "to": "1890-05-16",
+   "kind": "residence",
+   "note": "Asylum of Saint-Paul-de-Mausole; left 16 May 1890",
+   "evidence": [
+    "let760 n.4",
+    "let772 n.2",
+    "let868 n.3",
+    "let872 n.1"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1889-07-07",
+   "to": "1889-07-07",
+   "kind": "trip",
+   "note": "Supervised day trip to fetch his canvases (Sunday 7 July)",
+   "evidence": [
+    "let787",
+    "let791 n.1",
+    "let789"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1890-01-19",
+   "to": "1890-01-19",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visit to Marie Ginoux on 18 or 19 January; back in Saint-Rémy by 20 Jan",
+   "evidence": [
+    "let841 n.1",
+    "let846 n.2",
+    "let842"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1890-02-22",
+   "to": "1890-02-23",
+   "kind": "trip",
+   "note": "Visit to Arles on Saturday 22 Feb; suffered an attack, spent the night somewhere unknown and was fetched by carriage",
+   "evidence": [
+    "let857 n.1",
+    "let867 n.10"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1890-05-17",
+   "to": "1890-05-19",
+   "kind": "residence",
+   "note": "With Theo and Jo at 8 cité Pigalle; arrived Saturday 17 May",
+   "evidence": [
+    "let868 n.3",
+    "let872 n.1",
+    "let808 n.9",
+    "let745 n.16"
+   ]
+  },
+  {
+   "place": "auvers-sur-oise",
+   "from": "1890-05-20",
+   "to": "1890-07-29",
+   "kind": "residence",
+   "note": "Auberge Ravoux, place de la Mairie; shot himself 27 July, died 29 July 1890",
+   "evidence": [
+    "let808 n.9",
+    "let873 n.1",
+    "let881 n.4",
+    "RM20 n.2"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1890-07-06",
+   "to": "1890-07-06",
+   "kind": "trip",
+   "note": "Visit to Theo and Jo (Sunday 6 July)",
+   "evidence": [
+    "RM24 n.2",
+    "let881 n.1",
+    "let898 n.3"
+   ]
+  }
+ ],
+ "atLetters": {
+  "let822": {
+   "place": "saint-remy",
+   "evidence": [
+    "let822 title",
+    "let822",
+    "let823 dateNote",
+    "inferred: the edition's TEI placeLet reads 'Arles' but its own title says Saint-Rémy-de-Provence; Vincent describes 'the garden of the asylum where I am' and the same five olive canvases as letter 823 of the same day"
+   ]
+  },
+  "let786": {
+   "place": "saint-remy",
+   "evidence": [
+    "let787 dateNote",
+    "let791 n.1",
+    "inferred: Jo's letter of 5 July was received at the asylum on the morning of 6 July (let787), the day before the 7 July Arles trip"
+   ]
+  },
+  "let840": {
+   "place": "saint-remy",
+   "evidence": [
+    "let840 dateNote",
+    "let842",
+    "inferred: Gauguin's letter from Le Pouldu (c. 17 Jan) reached Vincent shortly before 20 Jan at the asylum; his Arles visit of 18 or 19 Jan was a day trip"
+   ]
+  },
+  "let394": {
+   "place": "hoogeveen",
+   "evidence": [
+    "let394 dateNote"
+   ]
+  },
+  "let165": {
+   "place": "brussels",
+   "evidence": [
+    "let165",
+    "inferred: written in Brussels on 12 April 1881 just before he set out for Etten that day ('I set out for there today')"
+   ]
+  },
+  "let897": {
+   "place": "auvers-sur-oise",
+   "evidence": [
+    "let897",
+    "inferred: Theo's letter of Saturday 5 July invites Vincent to come 'on Sunday with the first train', so it was received in Auvers before the 6 July Paris visit"
+   ]
+  },
+  "RM22": {
+   "place": "auvers-sur-oise",
+   "evidence": [
+    "RM22 dateNote",
+    "inferred: undated note from Gachet in Auvers to Vincent while he lived in Auvers (June-July 1890); the lookup window otherwise runs past his death"
+   ]
+  },
+  "RM07": {
+   "place": "ramsgate",
+   "evidence": [
+    "RM07 title (edition: 'To Theo van Gogh. Ramsgate, April-May 1876')"
+   ]
+  },
+  "RM12": {
+   "place": "etten",
+   "evidence": [
+    "RM12 title (edition: 'Probably Etten, second half of 1881')"
+   ]
+  }
+ }
+}

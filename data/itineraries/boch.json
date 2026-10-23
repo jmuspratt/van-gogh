@@ -1,0 +1,18 @@
+{
+ "person": "boch",
+ "stays": [
+  {
+   "place": "frameries",
+   "from": "1888-09-15",
+   "to": "1888-10-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Painting in the Borinage (until 1891); let693 addressed c/o F.E. Morriaux, 42 rue de la Station, Frameries",
+   "evidence": [
+    "let693 n.1",
+    "let669 n.16",
+    "let721 n.10"
+   ]
+  }
+ ]
+}

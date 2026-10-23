@@ -1,0 +1,609 @@
+{
+ "amsterdam": {
+  "name": "Amsterdam",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q727",
+  "editionNames": [
+   "Amsterdam"
+  ],
+  "lat": 52.36667,
+  "lon": 4.88333
+ },
+ "antwerp": {
+  "name": "Antwerp",
+  "country": "BE",
+  "kind": "city",
+  "wikidata": "Q12892",
+  "editionNames": [
+   "Antwerp"
+  ],
+  "lat": 51.22111,
+  "lon": 4.39972
+ },
+ "arles": {
+  "name": "Arles",
+  "country": "FR",
+  "kind": "town",
+  "wikidata": "Q48292",
+  "editionNames": [
+   "Arles"
+  ],
+  "lat": 43.67694,
+  "lon": 4.62861
+ },
+ "asnieres": {
+  "name": "Asnières-sur-Seine",
+  "wikidata": "Q191415",
+  "kind": "town",
+  "within": "paris",
+  "country": "FR",
+  "search": "Asnières-sur-Seine",
+  "lat": 48.91111,
+  "lon": 2.28556
+ },
+ "auvers-sur-oise": {
+  "name": "Auvers-sur-Oise",
+  "country": "FR",
+  "kind": "village",
+  "wikidata": "Q212406",
+  "editionNames": [
+   "Auvers-sur-Oise"
+  ],
+  "lat": 49.07167,
+  "lon": 2.17417
+ },
+ "baarn": {
+  "name": "Baarn",
+  "country": "NL",
+  "kind": "town",
+  "wikidata": "Q10027",
+  "proposedBy": "family",
+  "lat": 52.2125,
+  "lon": 5.2861
+ },
+ "belle-ile": {
+  "name": "Belle-Île-en-Mer",
+  "country": "FR",
+  "kind": "region",
+  "wikidata": "Q815838",
+  "editionNames": [
+   "Belle-Île-en-Mer"
+  ],
+  "search": "Belle-Île",
+  "lat": 47.33306,
+  "lon": -3.187
+ },
+ "breda": {
+  "name": "Breda",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q40844",
+  "lat": 51.58889,
+  "lon": 4.77583
+ },
+ "brussels": {
+  "name": "Brussels",
+  "country": "BE",
+  "kind": "city",
+  "wikidata": "Q239",
+  "editionNames": [
+   "Brussels"
+  ],
+  "search": "City of Brussels",
+  "lat": 50.84667,
+  "lon": 4.35167
+ },
+ "cassis": {
+  "name": "Cassis",
+  "country": "FR",
+  "kind": "town",
+  "wikidata": "Q243002",
+  "editionNames": [
+   "Cassis"
+  ],
+  "lat": 43.21556,
+  "lon": 5.53722
+ },
+ "courrieres": {
+  "name": "Courrières",
+  "wikidata": "Q323072",
+  "kind": "town",
+  "country": "FR",
+  "search": "Courrières",
+  "lat": 50.45806,
+  "lon": 2.94722
+ },
+ "cuesmes": {
+  "name": "Cuesmes",
+  "country": "BE",
+  "kind": "village",
+  "wikidata": "Q2269644",
+  "editionNames": [
+   "Cuesmes"
+  ],
+  "lat": 50.43617,
+  "lon": 3.92067
+ },
+ "dordrecht": {
+  "name": "Dordrecht",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q26421",
+  "editionNames": [
+   "Dordrecht",
+   "Dordrecht?"
+  ],
+  "lat": 51.79583,
+  "lon": 4.67833
+ },
+ "drenthe": {
+  "name": "Drenthe",
+  "wikidata": "Q772",
+  "kind": "region",
+  "country": "NL",
+  "lat": 52.9167,
+  "lon": 6.5833
+ },
+ "eindhoven": {
+  "name": "Eindhoven",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q9832",
+  "editionNames": [
+   "Eindhoven"
+  ],
+  "lat": 51.43444,
+  "lon": 5.48417
+ },
+ "etten": {
+  "name": "Etten",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q9833",
+  "editionNames": [
+   "Etten"
+  ],
+  "search": "Etten-Leur",
+  "lat": 51.5706,
+  "lon": 4.6356
+ },
+ "frameries": {
+  "name": "Frameries",
+  "wikidata": "Q666751",
+  "kind": "town",
+  "country": "BE",
+  "search": "Frameries",
+  "lat": 50.40876,
+  "lon": 3.89057
+ },
+ "ghent": {
+  "name": "Ghent",
+  "wikidata": "Q1296",
+  "kind": "city",
+  "country": "BE",
+  "lat": 51.05361,
+  "lon": 3.72528
+ },
+ "giverny": {
+  "name": "Giverny",
+  "wikidata": "Q165061",
+  "kind": "village",
+  "country": "FR",
+  "search": "Giverny",
+  "lat": 49.07611,
+  "lon": 1.52917
+ },
+ "guelma": {
+  "name": "Guelma",
+  "country": "DZ",
+  "kind": "town",
+  "wikidata": "Q609871",
+  "editionNames": [
+   "Guelma"
+  ],
+  "lat": 36.46194,
+  "lon": 7.42583
+ },
+ "haarlem": {
+  "name": "Haarlem",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q9920",
+  "proposedBy": "family",
+  "lat": 52.38139,
+  "lon": 4.63556
+ },
+ "helvoirt": {
+  "name": "Helvoirt",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q2197808",
+  "editionNames": [
+   "Helvoirt"
+  ],
+  "lat": 51.6308,
+  "lon": 5.2297
+ },
+ "hengelo": {
+  "name": "Hengelo",
+  "country": "NL",
+  "kind": "town",
+  "wikidata": "Q10006",
+  "proposedBy": "family",
+  "lat": 52.26556,
+  "lon": 6.79306
+ },
+ "holbaekgaard": {
+  "name": "Holbækgård",
+  "country": "DK",
+  "kind": "address",
+  "wikidata": "Q12317017",
+  "editionNames": [
+   "Holbaekgaard"
+  ],
+  "search": "Holbækgård",
+  "lat": 56.5644,
+  "lon": 10.275
+ },
+ "hoogeveen": {
+  "name": "Hoogeveen",
+  "country": "NL",
+  "kind": "town",
+  "wikidata": "Q208012",
+  "editionNames": [
+   "Hoogeveen"
+  ],
+  "lat": 52.71667,
+  "lon": 6.46667
+ },
+ "isleworth": {
+  "name": "Isleworth",
+  "country": "GB",
+  "kind": "town",
+  "wikidata": "Q2432955",
+  "editionNames": [
+   "Isleworth"
+  ],
+  "lat": 51.4666,
+  "lon": -0.3363
+ },
+ "laeken": {
+  "name": "Laeken",
+  "country": "BE",
+  "kind": "town",
+  "wikidata": "Q730506",
+  "editionNames": [
+   "Laken"
+  ],
+  "lat": 50.86667,
+  "lon": 4.35,
+  "within": "brussels"
+ },
+ "le-pouldu": {
+  "name": "Le Pouldu",
+  "country": "FR",
+  "kind": "village",
+  "wikidata": "Q3828411",
+  "editionNames": [
+   "Le Pouldu"
+  ],
+  "lat": 47.76667,
+  "lon": -3.55
+ },
+ "leeuwarden": {
+  "name": "Leeuwarden",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q25390",
+  "proposedBy": "family",
+  "lat": 53.2,
+  "lon": 5.78333
+ },
+ "leiden": {
+  "name": "Leiden",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q43631",
+  "lat": 52.16,
+  "lon": 4.49
+ },
+ "leiderdorp": {
+  "name": "Leiderdorp",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q1000817",
+  "proposedBy": "family",
+  "lat": 52.16167,
+  "lon": 4.52833
+ },
+ "lille": {
+  "name": "Lille",
+  "wikidata": "Q648",
+  "kind": "city",
+  "country": "FR",
+  "lat": 50.63194,
+  "lon": 3.0575
+ },
+ "london": {
+  "name": "London",
+  "country": "GB",
+  "kind": "city",
+  "wikidata": "Q84",
+  "editionNames": [
+   "London"
+  ],
+  "lat": 51.50722,
+  "lon": -0.1275
+ },
+ "marseille": {
+  "name": "Marseille",
+  "country": "FR",
+  "kind": "city",
+  "wikidata": "Q23482",
+  "editionNames": [
+   "Marseille"
+  ],
+  "lat": 43.29667,
+  "lon": 5.37639
+ },
+ "middelharnis": {
+  "name": "Middelharnis",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q848898",
+  "proposedBy": "family",
+  "lat": 51.75,
+  "lon": 4.15
+ },
+ "mons": {
+  "name": "Mons",
+  "wikidata": "Q83407",
+  "kind": "city",
+  "country": "BE",
+  "search": "Mons",
+  "lat": 50.45472,
+  "lon": 3.9525
+ },
+ "netherlands": {
+  "name": "Netherlands",
+  "wikidata": "Q55",
+  "kind": "region",
+  "lat": 52.31667,
+  "lon": 5.55,
+  "note": "Country-level placeholder for Goupil sales trips whose stops are unknown.",
+  "country": "NL"
+ },
+ "nieuw-amsterdam": {
+  "name": "Nieuw-Amsterdam",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q743632",
+  "editionNames": [
+   "Nieuw-Amsterdam"
+  ],
+  "lat": 52.715,
+  "lon": 6.8625
+ },
+ "nuenen": {
+  "name": "Nuenen",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q153516",
+  "editionNames": [
+   "Nuenen"
+  ],
+  "lat": 51.46667,
+  "lon": 5.55
+ },
+ "oisterwijk": {
+  "name": "Oisterwijk",
+  "country": "NL",
+  "kind": "town",
+  "wikidata": "Q9857",
+  "lat": 51.5833,
+  "lon": 5.2
+ },
+ "paris": {
+  "name": "Paris",
+  "country": "FR",
+  "kind": "city",
+  "wikidata": "Q90",
+  "editionNames": [
+   "Paris"
+  ],
+  "lat": 48.85667,
+  "lon": 2.35222
+ },
+ "patureages": {
+  "name": "Pâturages",
+  "wikidata": "Q2783664",
+  "kind": "village",
+  "country": "BE",
+  "search": "Pâturages",
+  "lat": 50.41365,
+  "lon": 3.86292
+ },
+ "pont-aven": {
+  "name": "Pont-Aven",
+  "country": "FR",
+  "kind": "village",
+  "wikidata": "Q238377",
+  "editionNames": [
+   "Pont-Aven"
+  ],
+  "lat": 47.85556,
+  "lon": -3.74722
+ },
+ "princenhage": {
+  "name": "Princenhage",
+  "wikidata": "Q3252438",
+  "kind": "village",
+  "country": "NL",
+  "within": "breda",
+  "search": "Princenhage",
+  "lat": 51.5763,
+  "lon": 4.7394
+ },
+ "ramsgate": {
+  "name": "Ramsgate",
+  "country": "GB",
+  "kind": "town",
+  "wikidata": "Q736439",
+  "editionNames": [
+   "Ramsgate"
+  ],
+  "lat": 51.34391,
+  "lon": 1.40403
+ },
+ "saint-briac": {
+  "name": "Saint-Briac-sur-Mer",
+  "wikidata": "Q193704",
+  "kind": "village",
+  "country": "FR",
+  "search": "Saint-Briac-sur-Mer",
+  "lat": 48.62028,
+  "lon": -2.13389
+ },
+ "saint-remy": {
+  "name": "Saint-Rémy-de-Provence",
+  "country": "FR",
+  "kind": "town",
+  "wikidata": "Q221507",
+  "editionNames": [
+   "Saint-Rémy-de-Provence",
+   "Saint-Rémy"
+  ],
+  "lat": 43.78944,
+  "lon": 4.83167
+ },
+ "saintes-maries-de-la-mer": {
+  "name": "Saintes-Maries-de-la-Mer",
+  "country": "FR",
+  "kind": "village",
+  "wikidata": "Q330920",
+  "editionNames": [
+   "Les-Saintes-Maries-de-la-Mer"
+  ],
+  "lat": 43.45167,
+  "lon": 4.42806
+ },
+ "soden": {
+  "name": "Bad Soden",
+  "wikidata": "Q39785",
+  "kind": "town",
+  "country": "DE",
+  "search": "Bad Soden am Taunus",
+  "note": "Edition says only 'the health resort Soden in northern Germany' (let290 n.8); Bad Soden am Taunus assumed.",
+  "lat": 50.14243,
+  "lon": 8.49972
+ },
+ "soesterberg": {
+  "name": "Soesterberg",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q1025080",
+  "proposedBy": "family",
+  "lat": 52.11944,
+  "lon": 5.28306
+ },
+ "terschelling": {
+  "name": "Terschelling",
+  "wikidata": "Q204412",
+  "kind": "region",
+  "country": "NL",
+  "search": "Terschelling",
+  "lat": 53.4011,
+  "lon": 5.3314
+ },
+ "the-hague": {
+  "name": "The Hague",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q36600",
+  "editionNames": [
+   "The Hague"
+  ],
+  "lat": 52.08,
+  "lon": 4.31
+ },
+ "utrecht": {
+  "name": "Utrecht",
+  "country": "NL",
+  "kind": "city",
+  "wikidata": "Q803",
+  "editionNames": [
+   "Utrecht"
+  ],
+  "lat": 52.09083,
+  "lon": 5.12167
+ },
+ "voorburg": {
+  "name": "Voorburg",
+  "wikidata": "Q809821",
+  "kind": "town",
+  "country": "NL",
+  "search": "Voorburg",
+  "lat": 52.07,
+  "lon": 4.355
+ },
+ "wasmes": {
+  "name": "Wasmes",
+  "country": "BE",
+  "kind": "village",
+  "wikidata": "Q2350085",
+  "editionNames": [
+   "Wasmes"
+  ],
+  "lat": 50.41418,
+  "lon": 3.84664
+ },
+ "weesp": {
+  "name": "Weesp",
+  "country": "NL",
+  "kind": "town",
+  "wikidata": "Q9974",
+  "proposedBy": "family",
+  "lat": 52.3069,
+  "lon": 5.0417
+ },
+ "welwyn": {
+  "name": "Welwyn",
+  "country": "GB",
+  "kind": "village",
+  "wikidata": "Q1972764",
+  "editionNames": [
+   "Welwyn"
+  ],
+  "lat": 51.831,
+  "lon": -0.215
+ },
+ "winschoten": {
+  "name": "Winschoten",
+  "country": "NL",
+  "kind": "town",
+  "wikidata": "Q73817",
+  "editionNames": [
+   "Winschoten"
+  ],
+  "lat": 53.15,
+  "lon": 7.03333
+ },
+ "zundert": {
+  "name": "Zundert",
+  "country": "NL",
+  "kind": "village",
+  "wikidata": "Q9883",
+  "lat": 51.4703,
+  "lon": 4.66
+ },
+ "zweeloo": {
+  "name": "Zweeloo",
+  "wikidata": "Q231877",
+  "kind": "village",
+  "country": "NL",
+  "search": "Zweeloo",
+  "lat": 52.7936,
+  "lon": 6.7303
+ }
+}

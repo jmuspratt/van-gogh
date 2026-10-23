@@ -1,0 +1,9 @@
+{
+  "person": "jo",
+  "stays": [
+    { "place": "paris", "from": "1889-04-20", "to": "1890-07-14", "kind": "residence",
+      "note": "8 cité Pigalle, Montmartre, with Theo; arrived 20 Apr 1889 after the wedding in Amsterdam (18 Apr) and a day in Brussels; left for Leiden/Amsterdam 15 July 1890",
+      "evidence": ["let760 n.1", "let761 n.2", "let750 n.11", "let771 n.2", "let873 n.7", "let898 n.6"] }
+  ],
+  "atLetters": {}
+}

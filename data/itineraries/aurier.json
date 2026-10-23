@@ -1,0 +1,17 @@
+{
+ "person": "aurier",
+ "stays": [
+  {
+   "place": "paris",
+   "from": "1890-01-01",
+   "to": "1890-02-28",
+   "kind": "residence",
+   "approx": true,
+   "evidence": [
+    "let825",
+    "let845 n.2",
+    "inferred: Paris critic of the Mercure de France who visited Theo's flat in Dec 1889 (let825); no note places him elsewhere"
+   ]
+  }
+ ]
+}

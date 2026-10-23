@@ -1,0 +1,19 @@
+{
+ "person": "ginoux",
+ "stays": [
+  {
+   "place": "arles",
+   "from": "1888-05-01",
+   "to": "1890-07-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Proprietors of the Cafe de la Gare, 30 place Lamartine",
+   "evidence": [
+    "let606 n.2",
+    "let778",
+    "let882",
+    "let842 n.1"
+   ]
+  }
+ ]
+}

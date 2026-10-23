@@ -1,0 +1,19 @@
+{
+ "person": "dezwart",
+ "stays": [
+  {
+   "place": "voorburg",
+   "from": "1882-05-01",
+   "to": "1883-12-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "M.A. de Zwart lived in Kleine Laan, Voorburg; let315 n.1 notes the addressee may have been his father P.W. de Zwart, builder, also based in Voorburg",
+   "evidence": [
+    "let382 n.1",
+    "let408 n.10",
+    "let222 n.17",
+    "let315 n.1"
+   ]
+  }
+ ]
+}

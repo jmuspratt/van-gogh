@@ -1,0 +1,16 @@
+{
+ "person": "tersteeg",
+ "stays": [
+  {
+   "place": "the-hague",
+   "from": "1877-07-01",
+   "to": "1877-08-31",
+   "kind": "residence",
+   "approx": true,
+   "evidence": [
+    "let124 n.1",
+    "inferred: manager of Goupil's Hague branch; his daughter Marie died in The Hague on 24 July 1877 and nothing places him elsewhere"
+   ]
+  }
+ ]
+}

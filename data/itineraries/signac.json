@@ -1,0 +1,18 @@
+{
+ "person": "signac",
+ "stays": [
+  {
+   "place": "cassis",
+   "from": "1889-03-25",
+   "to": "1889-04-15",
+   "kind": "residence",
+   "approx": true,
+   "note": "After visiting Vincent in Arles on 23-24 March 1889",
+   "evidence": [
+    "let755",
+    "let757",
+    "let756 n.3"
+   ]
+  }
+ ]
+}

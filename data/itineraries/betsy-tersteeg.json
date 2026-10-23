@@ -1,0 +1,17 @@
+{
+ "person": "betsy-tersteeg",
+ "stays": [
+  {
+   "place": "the-hague",
+   "from": "1874-07-01",
+   "to": "1874-07-31",
+   "kind": "residence",
+   "approx": true,
+   "evidence": [
+    "let024",
+    "let015 n.16",
+    "inferred: daughter of H.G. Tersteeg of Goupil's Hague branch; the sketchbook-letter was written in Helvoirt on the day Theo left for The Hague (let024 Date)"
+   ]
+  }
+ ]
+}

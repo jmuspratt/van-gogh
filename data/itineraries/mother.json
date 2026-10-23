@@ -1,0 +1,90 @@
+{
+  "person": "mother",
+  "stays": [
+    {
+      "place": "helvoirt",
+      "from": "1871-01-01",
+      "to": "1875-10-23",
+      "kind": "residence",
+      "approx": true,
+      "note": "Parsonage; Theodorus van Gogh minister at Helvoirt 1871-1875",
+      "evidence": [
+        "let465 n.16",
+        "let001 n.1",
+        "let005 n.2",
+        "let040 n.3",
+        "inferred: start bound only known to the year; end set to the eve of the Etten induction (let057 n.1)"
+      ]
+    },
+    {
+      "place": "etten",
+      "from": "1875-10-24",
+      "to": "1882-08-06",
+      "kind": "residence",
+      "note": "Parsonage at Etten; start = Theodorus's induction (24 Oct 1875); end = eve of registration in Nuenen",
+      "evidence": [
+        "let057 n.1",
+        "let040 n.1",
+        "let053",
+        "let098 n.23",
+        "let247 n.2",
+        "inferred: exact day of the household move to Etten is not given; induction date used"
+      ],
+      "approx": true
+    },
+    {
+      "place": "nuenen",
+      "from": "1882-08-07",
+      "to": "1886-03-29",
+      "kind": "residence",
+      "note": "Parsonage, De Berg F 523; registered 7 Aug 1882 (move 'at the beginning of August'). Theodorus died 26 Mar 1885; Anna stayed until 30 Mar 1886",
+      "evidence": [
+        "let247 n.2",
+        "let253 n.11",
+        "let490 n.10",
+        "let557 n.8"
+      ]
+    },
+    {
+      "place": "breda",
+      "from": "1886-03-30",
+      "to": "1889-11-01",
+      "kind": "residence",
+      "note": "Nieuwe Ginnekenstraat B 649bis from 30 Mar 1886; Nieuwe Haagdijk from April 1888; with Willemien",
+      "evidence": [
+        "let557 n.8",
+        "let490 n.10",
+        "let626 n.20",
+        "let735 n.16",
+        "let771 n.10",
+        "let798 n.11"
+      ]
+    },
+    {
+      "place": "leiden",
+      "from": "1889-11-02",
+      "to": "1890-07-31",
+      "kind": "residence",
+      "note": "Herengracht 100, with Willemien",
+      "evidence": [
+        "let798 n.11",
+        "let827 n.2",
+        "let864 n.6",
+        "let878 n.2"
+      ]
+    },
+    {
+      "place": "amsterdam",
+      "from": "1889-03-31",
+      "to": "1889-04-18",
+      "kind": "trip",
+      "approx": true,
+      "note": "With Theo and Willemien from Breda for Theo and Jo's wedding (18 Apr); stayed 'until after the wedding'",
+      "evidence": [
+        "let762 n.4",
+        "let750 n.11"
+      ]
+    }
+  ],
+  "atLetters": {}
+}

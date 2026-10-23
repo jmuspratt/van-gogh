@@ -1,0 +1,16 @@
+{
+ "person": "angrand",
+ "stays": [
+  {
+   "place": "paris",
+   "from": "1886-10-01",
+   "to": "1886-11-30",
+   "kind": "residence",
+   "approx": true,
+   "evidence": [
+    "let570 n.1",
+    "inferred: Angrand taught at the Collège Chaptal, Paris, and Vincent proposes meeting him in Paris"
+   ]
+  }
+ ]
+}

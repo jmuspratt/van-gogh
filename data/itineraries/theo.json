@@ -1,0 +1,1188 @@
+{
+ "person": "theo",
+ "stays": [
+  {
+   "place": "helvoirt",
+   "from": "1872-01-01",
+   "to": "1872-12-31",
+   "kind": "residence",
+   "note": "Parents' parsonage at Helvoirt (family settled there 1871); Theo walked daily to secondary school in Oisterwijk (c. 6 km)",
+   "evidence": [
+    "let001 n.1",
+    "let002",
+    "Stolwijk & Thomson 1999, p. 183"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1872-09-01",
+   "to": "1872-09-26",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visit to Vincent in The Hague; exact days unknown (bounds are conservative)",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 183",
+    "let001",
+    "let001 n.2",
+    "inferred: Stolwijk gives only 'septembre'; let001 (29 Sep) shows he was already home, having left before the postponed exhibition fireworks (c. 26 Sep)"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1873-01-01",
+   "to": "1873-11-04",
+   "kind": "residence",
+   "note": "Goupil & Cie, rue Montagne de la Cour 58, from 1 Jan 1873. Boarded with Rev. Hendrik van den Brink, place Sainte-Catherine 5, until March; then rue Sainte-Catherine; from June at Montagne de la Cour 58. Left Brussels 5 Nov",
+   "evidence": [
+    "let002 n.1",
+    "let003 n.1",
+    "let015 n.14",
+    "Stolwijk & Thomson 1999, p. 183"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1873-04-12",
+   "to": "1873-04-14",
+   "kind": "trip",
+   "approx": true,
+   "note": "Easter at his parents' house (from Brussels)",
+   "evidence": [
+    "let005 n.2",
+    "inferred: Easter Sunday was 13 Apr; days either side assumed"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1873-09-10",
+   "to": "1873-09-10",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visited his mother for her birthday (10 Sep), from Brussels",
+   "evidence": [
+    "let013 n.1"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1873-11-05",
+   "to": "1873-11-11",
+   "kind": "residence",
+   "note": "Between leaving Brussels (5 Nov) and arriving in The Hague (12 Nov), at his parents' house",
+   "evidence": [
+    "let015 n.14"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1873-11-12",
+   "to": "1878-04-30",
+   "kind": "residence",
+   "note": "Goupil & Cie, Plaats 14 (started work 17 Nov 1873). Boarded with the Roos family, Lange Beestenmarkt 32. Stolwijk gives 'vers le 12 novembre'; the edition gives arrival on Wednesday 12 Nov",
+   "evidence": [
+    "let015 n.1",
+    "let015 n.2",
+    "let013 n.16",
+    "Stolwijk & Thomson 1999, p. 183"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1874-02-08",
+   "to": "1874-02-08",
+   "kind": "trip",
+   "note": "Visited Uncle Cor in Amsterdam (Sunday)",
+   "evidence": [
+    "let019 n.4"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1874-07-04",
+   "to": "1874-07-07",
+   "kind": "trip",
+   "approx": true,
+   "note": "Summer visit to his parents at Helvoirt while Vincent was home on leave; took the train back to The Hague on 7 July",
+   "evidence": [
+    "let024 n.2",
+    "let024",
+    "inferred: arrival date unknown; the family was together at Helvoirt the weekend of 4-5 July and Theo left on Tuesday 7 July (let024 Date)"
+   ]
+  },
+  {
+   "place": "helvoirt",
+   "from": "1875-07-24",
+   "to": "1875-07-25",
+   "kind": "trip",
+   "note": "Weekend visit to his father at Helvoirt",
+   "evidence": [
+    "let040 n.3"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1875-12-25",
+   "to": "1875-12-26",
+   "kind": "trip",
+   "approx": true,
+   "note": "Christmas with the family at Etten",
+   "evidence": [
+    "let063 n.2",
+    "inferred: the note gives Vincent's dates (23/24 Dec-3 Jan) but not Theo's; Christmas days assumed"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1876-03-29",
+   "to": "1876-04-07",
+   "kind": "trip",
+   "note": "Spring sales trip for Goupil through the Netherlands (at least 14 towns), 29 Mar-12 Apr 1876 per the edition (Stolwijk: 31 Mar-mid-April)",
+   "evidence": [
+    "let070 n.2",
+    "let071 n.2",
+    "let072 n.1",
+    "Stolwijk & Thomson 1999, p. 183"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1876-04-08",
+   "to": "1876-04-09",
+   "kind": "trip",
+   "approx": true,
+   "note": "Sales trip took him to Breda on Saturday 8 Apr; met Vincent at Etten that weekend",
+   "evidence": [
+    "let071 n.2",
+    "let074 n.10",
+    "Stolwijk & Thomson 1999, p. 183"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1876-04-10",
+   "to": "1876-04-12",
+   "kind": "trip",
+   "note": "Remainder of the spring sales trip (ended 12 Apr)",
+   "evidence": [
+    "let070 n.2"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1876-05-21",
+   "to": "1876-05-21",
+   "kind": "trip",
+   "approx": true,
+   "note": "Family celebration at Etten on 21 May (parents' 25th wedding anniversary)",
+   "evidence": [
+    "let083 n.1"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1876-11-01",
+   "to": "1876-11-18",
+   "kind": "trip",
+   "approx": true,
+   "note": "Convalescing at his parents' home after a serious illness in The Hague (Oct-mid-Nov 1876)",
+   "evidence": [
+    "let097 n.1",
+    "let097",
+    "let098 n.23",
+    "let099",
+    "let095 n.1",
+    "Stolwijk & Thomson 1999, p. 183",
+    "inferred: start after his mother's nursing stay in The Hague (still there c. 23-25 Oct, let095 n.1) and before 10 Nov; end before 19 Nov (Pa forwarded let098 to him) and he was back at the gallery by 25 Nov (let099)"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1876-12-24",
+   "to": "1876-12-26",
+   "kind": "trip",
+   "approx": true,
+   "note": "Christmas holidays at Etten with Vincent",
+   "evidence": [
+    "let100 n.1",
+    "inferred: Christmas days assumed; he had left Etten before 31 Dec (let100)"
+   ]
+  },
+  {
+   "place": "dordrecht",
+   "from": "1877-02-25",
+   "to": "1877-02-25",
+   "kind": "trip",
+   "note": "Sunday visit to Vincent in Dordrecht",
+   "evidence": [
+    "let103 n.1",
+    "let119 n.1"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1877-03-12",
+   "to": "1877-03-15",
+   "kind": "trip",
+   "approx": true,
+   "note": "Spring 1877 sales trip for Goupil",
+   "evidence": [
+    "let108",
+    "inferred: start of the spring sales trip unknown; he had 'left on [his] trip so soon' before 16 Mar and was still in The Hague when let106 (8 Mar) was written"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1877-03-16",
+   "to": "1877-03-18",
+   "kind": "trip",
+   "approx": true,
+   "note": "Staying with Uncle Cor during the sales trip; Vincent joined them Sunday 18 Mar, Theo left by train that day",
+   "evidence": [
+    "let108 n.1",
+    "let108",
+    "let106 n.4",
+    "let109 n.3",
+    "Stolwijk & Thomson 1999, p. 183"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1877-03-19",
+   "to": "1877-03-31",
+   "kind": "trip",
+   "approx": true,
+   "note": "Continuation of the spring sales trip ('Want to make sure you receive a letter on your trip', 23 Mar)",
+   "evidence": [
+    "let109",
+    "let110",
+    "inferred: end bound; let110 (8 Apr) says the trip is over and he is back in The Hague"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1877-04-01",
+   "to": "1877-04-01",
+   "kind": "trip",
+   "approx": true,
+   "note": "Easter at Etten, where the brothers met",
+   "evidence": [
+    "let110 n.1"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1877-05-13",
+   "to": "1877-05-13",
+   "kind": "trip",
+   "note": "Sunday visit to Vincent in Amsterdam (edition: 13 May; Stolwijk dates the reunion 19 May)",
+   "evidence": [
+    "let114 n.1",
+    "Stolwijk & Thomson 1999, p. 183"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1877-10-02",
+   "to": "1877-10-06",
+   "kind": "trip",
+   "note": "Stayed with Vincent, apparently during the autumn sales trip with Goupil's nouveautés",
+   "evidence": [
+    "let132 n.10",
+    "let130",
+    "let128 n.18"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1877-10-13",
+   "to": "1877-10-14",
+   "kind": "trip",
+   "approx": true,
+   "note": "Surprise evening visit to Vincent, Saturday 13 and/or Sunday 14 Oct",
+   "evidence": [
+    "let132 n.10",
+    "let132"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1877-10-20",
+   "to": "1877-10-21",
+   "kind": "trip",
+   "approx": true,
+   "note": "Weekend at home at the end of the autumn trip",
+   "evidence": [
+    "let132",
+    "inferred: let132 (21 Oct) reports Theo was expected at Etten on Saturday evening to spend Sunday at home"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1877-12-25",
+   "to": "1877-12-26",
+   "kind": "trip",
+   "note": "Christmas at Etten with Vincent ('good days ... though they didn't last long')",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 183",
+    "let138",
+    "let138 n.1"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1878-03-30",
+   "to": "1878-03-30",
+   "kind": "trip",
+   "approx": true,
+   "note": "Spring sales trip: visit to Vincent timed for his birthday (30 Mar); the trip had begun earlier (date unknown)",
+   "evidence": [
+    "let143 n.1",
+    "let143 n.54"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1878-03-31",
+   "to": "1878-04-18",
+   "kind": "trip",
+   "approx": true,
+   "note": "Rest of the spring sales trip (Amsterdam, Utrecht, Rotterdam before 4 Apr; a second visit to Vincent); over by 19 Apr. let143 was sent to his temporary address",
+   "evidence": [
+    "let143 n.54",
+    "let143 n.1"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1878-05-01",
+   "to": "1878-11-12",
+   "kind": "residence",
+   "approx": true,
+   "note": "Temporary post at Goupil & Cie's stand at the Exposition Universelle (1 May-1 Nov per Stolwijk); lodged at 46 rue de la Tour d'Auvergne (9e) with Frans Braat",
+   "evidence": [
+    "let144 n.1",
+    "let144 n.5",
+    "let148 n.2",
+    "Stolwijk & Thomson 1999, p. 184",
+    "inferred: Stolwijk ends the provisional post on 1 Nov; no source places Theo elsewhere before the Laeken visit c. 13 Nov, so the residence is extended to then"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1878-11-13",
+   "to": "1879-10-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Back at Goupil, The Hague after the World's Fair (contrary to the 2009 assumption that he stayed in Paris). Vincent (13-16 Nov 1878): 'When you arrive home in The Hague write a quick note'. Theo did not go to Paris until October/November 1879",
+   "evidence": [
+    "let148",
+    "let148 n.2",
+    "let150",
+    "let151",
+    "let152 n.16",
+    "let156 n.7",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "laeken",
+   "from": "1878-11-13",
+   "to": "1878-11-13",
+   "kind": "trip",
+   "approx": true,
+   "note": "Spent a day with Vincent at Laeken on the way back from Paris to the Netherlands (edition: a couple of days before 15 Nov; Stolwijk: 15 Nov)",
+   "evidence": [
+    "let148",
+    "let148 n.2",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1878-11-14",
+   "to": "1878-11-17",
+   "kind": "trip",
+   "approx": true,
+   "note": "Stop at his parents' (and Uncle Vincent at Princenhage) before resuming work in The Hague",
+   "evidence": [
+    "let148",
+    "let148 n.2",
+    "inferred: days between the Laeken visit and Sunday 17 Nov, which Vincent hoped Theo would spend at Etten (and Princenhage)"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1879-03-01",
+   "to": "1879-03-02",
+   "kind": "trip",
+   "note": "Weekend visit to his parents ('in Etten for a couple of days')",
+   "evidence": [
+    "let150",
+    "let150 n.1",
+    "let151"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1879-03-24",
+   "to": "1879-03-31",
+   "kind": "trip",
+   "approx": true,
+   "note": "Spring sales trip for Goupil",
+   "evidence": [
+    "let151 n.1",
+    "let151",
+    "inferred: the edition says only 'at the end of March' (over by 2 Apr)"
+   ]
+  },
+  {
+   "place": "mons",
+   "from": "1879-08-10",
+   "to": "1879-08-10",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visited Vincent in the Borinage, walking near the disused mine La Sorcière; the edition places the meeting in Mons, 'on his way to Paris', and dates it Sunday 10 Aug by inference; Stolwijk gives 14 Aug",
+   "evidence": [
+    "let154 n.1",
+    "let155 n.14",
+    "let154",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1879-11-01",
+   "to": "1882-03-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Appointed permanently to Goupil's branch, 19 boulevard Montmartre ('vers le 1er novembre' 1879). Home address for 1879-1882 not given by the sources",
+   "evidence": [
+    "let156 n.7",
+    "let280 n.2",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1881-04-16",
+   "to": "1881-04-18",
+   "kind": "trip",
+   "approx": true,
+   "note": "Easter at Etten with Vincent and the family",
+   "evidence": [
+    "let165",
+    "let165 n.1",
+    "let166 n.2",
+    "let167",
+    "inferred: Easter Sunday was 17 Apr; Saturday-Monday assumed"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1881-07-23",
+   "to": "1881-07-31",
+   "kind": "trip",
+   "approx": true,
+   "note": "Summer holiday at Etten (with visits to friends in The Hague and to Uncle Vincent at Princenhage); back in Paris by early August",
+   "evidence": [
+    "let169",
+    "let170 n.1",
+    "let170",
+    "let277 n.10"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1882-04-01",
+   "to": "1886-05-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "25 rue de Laval (now rue Victor-Massé), 9e; moved there at the beginning of April 1882, lived there until June 1886",
+   "evidence": [
+    "let218 n.4",
+    "let222 n.3",
+    "let555 n.8",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "etten",
+   "from": "1882-07-30",
+   "to": "1882-08-01",
+   "kind": "trip",
+   "approx": true,
+   "note": "Travelled from Paris (probably Sunday 30 Jul) to his parents at Etten first",
+   "evidence": [
+    "let252 n.1",
+    "let250",
+    "let252",
+    "let253 n.11"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1882-08-02",
+   "to": "1882-08-04",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visit of a day or two to Vincent in The Hague, 2-4 Aug (Stolwijk: 4 Aug)",
+   "evidence": [
+    "let252 n.1",
+    "let253 n.1",
+    "let253",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1882-08-05",
+   "to": "1882-08-07",
+   "kind": "trip",
+   "approx": true,
+   "note": "Back with his parents, who were moving from Etten to Nuenen (registered there 7 Aug); he saw the new address",
+   "evidence": [
+    "let253 n.11",
+    "let253",
+    "inferred: end bound; the date of his return to Paris is not documented"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1883-08-12",
+   "to": "1883-08-16",
+   "kind": "trip",
+   "approx": true,
+   "note": "Summer holiday at his parents' in Nuenen (edition: arrived Sunday 12 or Monday 13 Aug; Stolwijk: 14 Aug)",
+   "evidence": [
+    "let372",
+    "let373",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1883-08-17",
+   "to": "1883-08-18",
+   "kind": "trip",
+   "note": "Visit to Vincent: arrived afternoon of Fri 17 Aug, left for Amsterdam on Sat 18 Aug",
+   "evidence": [
+    "let374",
+    "let375 n.1",
+    "let375"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1883-08-19",
+   "to": "1883-08-19",
+   "kind": "trip",
+   "approx": true,
+   "note": "Talked to Uncle Cor in Amsterdam on Sunday 19 Aug",
+   "evidence": [
+    "let374",
+    "let378"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1883-08-20",
+   "to": "1883-08-28",
+   "kind": "trip",
+   "approx": true,
+   "note": "Back at Nuenen for the rest of his holiday; Stolwijk: holiday 14 to 'vers le 28 août'",
+   "evidence": [
+    "let376 n.1",
+    "let378",
+    "Stolwijk & Thomson 1999, p. 184"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1884-06-01",
+   "to": "1884-06-02",
+   "kind": "trip",
+   "approx": true,
+   "note": "Whitsun visit to Nuenen",
+   "evidence": [
+    "let447",
+    "let448 n.5",
+    "let449",
+    "inferred: Whit Sunday 1 Jun (arrival) and Whit Monday assumed"
+   ]
+  },
+  {
+   "place": "london",
+   "from": "1884-08-04",
+   "to": "1884-08-10",
+   "kind": "trip",
+   "approx": true,
+   "note": "Business stay in London (planned from 4 Aug), then on to Nuenen",
+   "evidence": [
+    "let452",
+    "let453",
+    "let451 n.8",
+    "inferred: the London/Nuenen split is unknown; a week each assumed"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1884-08-11",
+   "to": "1884-08-19",
+   "kind": "trip",
+   "approx": true,
+   "note": "Holiday at Nuenen after London; quarrel with Vincent",
+   "evidence": [
+    "let453",
+    "let455",
+    "let469 n.5",
+    "inferred: arrival date unknown; he had left the Netherlands before 20 Aug"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1885-03-28",
+   "to": "1885-04-01",
+   "kind": "trip",
+   "note": "Father died 26 Mar; Theo left Paris 27 Mar, arrived Nuenen 28 Mar, funeral 30 Mar, returned to Paris Wednesday 1 Apr",
+   "evidence": [
+    "let486 n.1",
+    "let489",
+    "Stolwijk & Thomson 1999, p. 186"
+   ]
+  },
+  {
+   "place": "lille",
+   "from": "1885-07-25",
+   "to": "1885-07-26",
+   "kind": "trip",
+   "approx": true,
+   "note": "With Andries Bonger: Lille (Musée Wicart) on the way to Nuenen",
+   "evidence": [
+    "let522 n.1",
+    "Stolwijk & Thomson 1999, p. 186",
+    "inferred: the edition says they set out 'Saturday, 26 July' (26 Jul 1885 was a Sunday); Stolwijk gives 25 Jul, so Saturday 25 Jul is used"
+   ]
+  },
+  {
+   "place": "ghent",
+   "from": "1885-07-27",
+   "to": "1885-07-27",
+   "kind": "trip",
+   "approx": true,
+   "note": "With Andries Bonger, on to Ghent",
+   "evidence": [
+    "let522 n.1"
+   ]
+  },
+  {
+   "place": "antwerp",
+   "from": "1885-07-28",
+   "to": "1885-07-28",
+   "kind": "trip",
+   "approx": true,
+   "note": "With Andries Bonger, Antwerp (World Exhibition) before Nuenen",
+   "evidence": [
+    "let522 n.1",
+    "let529 n.3"
+   ]
+  },
+  {
+   "place": "nuenen",
+   "from": "1885-07-29",
+   "to": "1885-08-06",
+   "kind": "trip",
+   "note": "Holiday at Nuenen (arrived Wed 29 Jul; visited Vincent's studio 6 Aug); left Fri 7 Aug",
+   "evidence": [
+    "let522",
+    "let522 n.1",
+    "let524",
+    "let525 n.1",
+    "Stolwijk & Thomson 1999, p. 186"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1885-08-07",
+   "to": "1885-08-08",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visited the Bonger family in Amsterdam (first met Jo); probably back in Paris Sunday 9 Aug",
+   "evidence": [
+    "let524",
+    "let525 n.1",
+    "let522 n.1",
+    "let534 n.5",
+    "Stolwijk & Thomson 1999, p. 186"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1886-06-01",
+   "to": "1889-03-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "54 rue Lepic, Montmartre, with Vincent from early June 1886 until Feb 1888 (later lodgers: Koning, Mourier-Petersen, De Haan). Last day = his departure by night train for his wedding in the Netherlands (30 Mar 1889)",
+   "evidence": [
+    "let569 n.9",
+    "let555 n.8",
+    "let578 n.6",
+    "let578 n.8",
+    "let623 n.8",
+    "let601",
+    "Stolwijk & Thomson 1999, p. 186"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1886-08-14",
+   "to": "1886-08-25",
+   "kind": "trip",
+   "approx": true,
+   "note": "Holiday in the Netherlands: stayed with the Bongers (Amsterdam), sought backing from Uncle Vincent (Princenhage) for a gallery with Andries Bonger; got back to Paris Thursday 26 Aug. Start bound from the edition's 'weekend of 14 August' reasoning",
+   "evidence": [
+    "let568",
+    "let568 n.1",
+    "let568 n.2",
+    "Stolwijk & Thomson 1999, p. 187"
+   ]
+  },
+  {
+   "place": "giverny",
+   "from": "1887-05-10",
+   "to": "1887-05-10",
+   "kind": "trip",
+   "approx": true,
+   "note": "Went to Giverny to meet Claude Monet",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 187"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1887-07-14",
+   "to": "1887-07-21",
+   "kind": "trip",
+   "approx": true,
+   "note": "Summer holiday in the Netherlands",
+   "evidence": [
+    "let571",
+    "let572",
+    "inferred: leave started c. 14 Jul per the edition's reasoning; he visited his mother in Breda before 22 Jul and saw family/friends in Amsterdam and The Hague (let592 n.3)"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1887-07-22",
+   "to": "1887-07-23",
+   "kind": "trip",
+   "approx": true,
+   "note": "Visited the Bonger family; proposed to Jo on Friday 22 Jul (refused)",
+   "evidence": [
+    "let572 n.1",
+    "let572",
+    "Stolwijk & Thomson 1999, p. 187"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1887-07-24",
+   "to": "1887-07-25",
+   "kind": "trip",
+   "approx": true,
+   "note": "Holiday in the Netherlands (continued)",
+   "evidence": [
+    "let572",
+    "inferred: whereabouts between Amsterdam (22 Jul) and Breda (26 Jul) not documented"
+   ]
+  },
+  {
+   "place": "breda",
+   "from": "1887-07-26",
+   "to": "1887-07-27",
+   "kind": "trip",
+   "approx": true,
+   "note": "At his mother's in Breda before returning",
+   "evidence": [
+    "let571",
+    "inferred: at his mother's in Breda on Tue 26 Jul (per let571 Date); back at work in Paris Thu 28 Jul"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1888-04-22",
+   "to": "1888-05-12",
+   "kind": "trip",
+   "approx": true,
+   "note": "Business trip to Brussels (left Sunday 22 Apr) combined with a visit to Breda; Theo's letters were dated Brussels and Vincent sent letters 605, 607 and 608 there; not back in Paris before 12 May",
+   "evidence": [
+    "let600 n.4",
+    "let600",
+    "let605",
+    "let608 n.1",
+    "let610",
+    "let602 n.23",
+    "inferred: whole trip modelled as Brussels; the visit to his mother and Willemien in Breda falls at an unknown point"
+   ]
+  },
+  {
+   "place": "princenhage",
+   "from": "1888-07-31",
+   "to": "1888-08-04",
+   "kind": "trip",
+   "approx": true,
+   "note": "Funeral of Uncle Vincent (Cent) van Gogh at Princenhage",
+   "evidence": [
+    "let652",
+    "let652 n.1",
+    "let656",
+    "Stolwijk & Thomson 1999, p. 187",
+    "inferred: Uncle Vincent died 28 Jul; on 31 Jul Vincent thought Theo might already be there; Theo had returned and reported before 6 Aug. Stolwijk: 'vers le 4 août'"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1888-10-24",
+   "to": "1888-10-26",
+   "kind": "trip",
+   "approx": true,
+   "note": "Short business trip to Brussels; expected back 'Friday or Saturday' (26/27 Oct) and wrote from Paris on 27 Oct",
+   "evidence": [
+    "let711",
+    "let711 n.2",
+    "let713",
+    "let714 n.7"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1888-12-25",
+   "to": "1888-12-25",
+   "kind": "trip",
+   "note": "Night train to Arles on 24 Dec after Gauguin's telegram; left Arles 25 Dec",
+   "evidence": [
+    "let728 n.1",
+    "Stolwijk & Thomson 1999, p. 187"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1889-01-05",
+   "to": "1889-01-05",
+   "kind": "trip",
+   "approx": true,
+   "note": "Travel day to the Netherlands for his engagement (in the Netherlands 5-13 Jan)",
+   "evidence": [
+    "let735 n.1",
+    "let758 n.1",
+    "Stolwijk & Thomson 1999, p. 187"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1889-01-06",
+   "to": "1889-01-11",
+   "kind": "trip",
+   "note": "In Amsterdam; engagement to Jo Bonger celebrated 9 Jan",
+   "evidence": [
+    "let740 n.11",
+    "let735 n.1",
+    "let731",
+    "Stolwijk & Thomson 1999, p. 187"
+   ]
+  },
+  {
+   "place": "netherlands",
+   "from": "1889-01-12",
+   "to": "1889-01-13",
+   "kind": "trip",
+   "approx": true,
+   "note": "Remaining days in the Netherlands (place not recorded) before returning to Paris",
+   "evidence": [
+    "let735 n.1",
+    "let758 n.1"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1889-03-31",
+   "to": "1890-09-15",
+   "kind": "residence",
+   "approx": true,
+   "note": "8 cité Pigalle, 3rd floor (with Jo from 20 Apr 1889)",
+   "evidence": [
+    "let745 n.16",
+    "let761 n.2",
+    "let771 n.2",
+    "let873 n.7",
+    "Stolwijk & Thomson 1999, p. 188",
+    "inferred: start set to the day after he left for the Netherlands; he rented the flat 4 Feb, moved the paintings there c. 10 Mar and lived there with Jo from 20 Apr 1889"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1889-03-31",
+   "to": "1889-04-18",
+   "kind": "trip",
+   "note": "Took the night train from Paris on Sat 30 Mar; travelled with his mother and Willemien from Breda to Amsterdam on 31 Mar. Wedding to Jo Bonger in Amsterdam, 18 Apr 1889 (also saw the Frans Hals paintings in Haarlem)",
+   "evidence": [
+    "let762 n.4",
+    "let753",
+    "let754",
+    "let758",
+    "let750 n.11",
+    "let759",
+    "let762",
+    "Stolwijk & Thomson 1999, p. 188"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1889-04-19",
+   "to": "1889-04-19",
+   "kind": "trip",
+   "approx": true,
+   "note": "Return journey with Jo via Brussels",
+   "evidence": [
+    "let762",
+    "let760 n.1",
+    "inferred: Theo saw Rembrandt's portrait 'at the museum in Brussels' on this journey (let762); placed on the return trip, since they reached Paris Sat 20 Apr"
+   ]
+  },
+  {
+   "place": "auvers-sur-oise",
+   "from": "1890-06-08",
+   "to": "1890-06-08",
+   "kind": "trip",
+   "note": "Sunday visit with Jo and the baby to Vincent and Dr Gachet",
+   "evidence": [
+    "let881",
+    "let880",
+    "Stolwijk & Thomson 1999, p. 188"
+   ]
+  },
+  {
+   "place": "leiden",
+   "from": "1890-07-15",
+   "to": "1890-07-15",
+   "kind": "trip",
+   "note": "Took Jo and the baby to his mother's in Leiden; left Paris 15 Jul (edition and Theo's letter of 14 Jul; Stolwijk gives 14 Jul)",
+   "evidence": [
+    "let900",
+    "let898 n.6",
+    "Stolwijk & Thomson 1999, p. 189"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1890-07-16",
+   "to": "1890-07-16",
+   "kind": "trip",
+   "approx": true,
+   "note": "To Mesdag about the Corot (Wednesday 16 Jul)",
+   "evidence": [
+    "let898 n.6",
+    "let900"
+   ]
+  },
+  {
+   "place": "antwerp",
+   "from": "1890-07-17",
+   "to": "1890-07-17",
+   "kind": "trip",
+   "note": "Business visit to Antwerp with a Diaz (edition: 17 Jul; Stolwijk: 16 Jul)",
+   "evidence": [
+    "let900 n.3",
+    "let898 n.6",
+    "Stolwijk & Thomson 1999, p. 189"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1890-07-18",
+   "to": "1890-07-18",
+   "kind": "trip",
+   "note": "Brussels, then back in Paris on the evening of Friday 18 Jul",
+   "evidence": [
+    "let898 n.6",
+    "Stolwijk & Thomson 1999, p. 189"
+   ]
+  },
+  {
+   "place": "auvers-sur-oise",
+   "from": "1890-07-28",
+   "to": "1890-07-31",
+   "kind": "trip",
+   "approx": true,
+   "note": "Went to Auvers on learning Vincent was wounded; Vincent died 29 Jul, buried 31 Jul",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 189"
+   ]
+  },
+  {
+   "place": "leiden",
+   "from": "1890-08-03",
+   "to": "1890-08-04",
+   "kind": "trip",
+   "approx": true,
+   "note": "To his mother's in Leiden, where Jo and the baby were",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 189",
+    "inferred: the Leiden/Amsterdam split is unknown"
+   ]
+  },
+  {
+   "place": "amsterdam",
+   "from": "1890-08-05",
+   "to": "1890-08-17",
+   "kind": "trip",
+   "approx": true,
+   "note": "With Jo and the baby at the Bonger family's; returned to Paris 18 Aug",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 189",
+    "inferred: the Leiden/Amsterdam split is unknown"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1890-09-16",
+   "to": "1890-11-17",
+   "kind": "residence",
+   "approx": true,
+   "note": "Moved c. 16 Sep 1890 to the 1st floor of 8 cité Pigalle; hospitalised 12 Oct at the Maison Dubois (faubourg Saint-Denis), transferred 14 Oct to Dr Blanche's clinic at Passy",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 189"
+   ]
+  },
+  {
+   "place": "utrecht",
+   "from": "1890-11-18",
+   "to": "1891-01-25",
+   "kind": "residence",
+   "note": "Admitted to the Willem Arntszkliniek, Utrecht, 18 Nov 1890; died there 25 Jan 1891",
+   "evidence": [
+    "Stolwijk & Thomson 1999, p. 189"
+   ]
+  }
+ ],
+ "atLetters": {
+  "let097": {
+   "place": "etten",
+   "evidence": [
+    "let097 n.1",
+    "let097"
+   ]
+  },
+  "let108": {
+   "place": "amsterdam",
+   "evidence": [
+    "let108 n.1",
+    "let108"
+   ]
+  },
+  "let252": {
+   "place": "etten",
+   "evidence": [
+    "let252 n.1"
+   ]
+  },
+  "let374": {
+   "place": "the-hague",
+   "evidence": [
+    "let374"
+   ]
+  },
+  "let376": {
+   "place": "nuenen",
+   "evidence": [
+    "let376 n.1"
+   ]
+  },
+  "let453": {
+   "place": "london",
+   "evidence": [
+    "let453"
+   ]
+  },
+  "let486": {
+   "place": "paris",
+   "evidence": [
+    "let486",
+    "let486 n.1"
+   ]
+  },
+  "let487": {
+   "place": "paris",
+   "evidence": [
+    "let487",
+    "let486"
+   ]
+  },
+  "let488": {
+   "place": "paris",
+   "evidence": [
+    "let488",
+    "let486"
+   ]
+  },
+  "let522": {
+   "place": "nuenen",
+   "evidence": [
+    "let522",
+    "let522 n.1"
+   ]
+  },
+  "let524": {
+   "place": "nuenen",
+   "evidence": [
+    "let524"
+   ]
+  },
+  "let605": {
+   "place": "brussels",
+   "evidence": [
+    "let605"
+   ]
+  },
+  "let607": {
+   "place": "brussels",
+   "evidence": [
+    "let608 n.1"
+   ]
+  },
+  "let608": {
+   "place": "brussels",
+   "evidence": [
+    "let608 n.1",
+    "let605"
+   ]
+  },
+  "let712": {
+   "place": "paris",
+   "evidence": [
+    "let713 n.1",
+    "let713"
+   ]
+  },
+  "let758": {
+   "place": "amsterdam",
+   "evidence": [
+    "let758",
+    "let762 n.4"
+   ]
+  },
+  "let731": {
+   "place": "amsterdam",
+   "evidence": [
+    "let731",
+    "let735 n.1"
+   ]
+  },
+  "let754": {
+   "place": "amsterdam",
+   "evidence": [
+    "let754",
+    "let762 n.4"
+   ]
+  }
+ }
+}

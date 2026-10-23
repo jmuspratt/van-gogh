@@ -1,0 +1,69 @@
+{
+ "person": "koning",
+ "stays": [
+  {
+   "place": "paris",
+   "from": "1887-09-01",
+   "to": "1888-05-28",
+   "kind": "residence",
+   "approx": true,
+   "note": "Lodged with Theo, 54 rue Lepic, from mid-March 1888; left Paris 28 May",
+   "evidence": [
+    "let578 n.8",
+    "let618 n.1",
+    "let616 n.4"
+   ]
+  },
+  {
+   "place": "winschoten",
+   "from": "1888-05-29",
+   "to": "1888-09-14",
+   "kind": "residence",
+   "approx": true,
+   "note": "Parental home (father a lawyer in Winschoten); travelling via Bruges, Ghent, Dordrecht and Rotterdam until 2 June",
+   "evidence": [
+    "let616 n.4",
+    "let617 n.7",
+    "let578 n.10",
+    "let666 n.9"
+   ]
+  },
+  {
+   "place": "the-hague",
+   "from": "1888-09-15",
+   "to": "1889-03-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "163 Van Diemenstraat",
+   "evidence": [
+    "let666 n.9",
+    "let746"
+   ]
+  }
+ ],
+ "atLetters": {
+  "let618": {
+   "place": "winschoten",
+   "evidence": [
+    "let617 n.7",
+    "let618 n.1"
+   ],
+   "note": "Reached Paris after he had left; Theo forwarded it to Winschoten"
+  },
+  "let727": {
+   "place": "winschoten",
+   "evidence": [
+    "let727",
+    "let727 n.1"
+   ]
+  },
+  "let740": {
+   "place": "winschoten",
+   "evidence": [
+    "let746",
+    "let740 n.1"
+   ],
+   "note": "'I recently received your letter while I was staying in Winschoten' (let746)"
+  }
+ }
+}

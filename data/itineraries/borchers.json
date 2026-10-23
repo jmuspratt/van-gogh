@@ -1,0 +1,17 @@
+{
+ "person": "borchers",
+ "stays": [
+  {
+   "place": "the-hague",
+   "from": "1875-08-01",
+   "to": "1875-09-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "Jacob van der Doesstraat 57; let043 was enclosed with let042 and handed over by Theo (let045)",
+   "evidence": [
+    "let042 n.10",
+    "let045"
+   ]
+  }
+ ]
+}

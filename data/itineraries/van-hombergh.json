@@ -1,0 +1,17 @@
+{
+ "person": "van-hombergh",
+ "stays": [
+  {
+   "place": "nuenen",
+   "from": "1887-08-01",
+   "to": "1887-09-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "Burgomaster of Nuenen",
+   "evidence": [
+    "let531 n.4",
+    "let573 n.1"
+   ]
+  }
+ ]
+}

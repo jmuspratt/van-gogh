@@ -1,0 +1,17 @@
+{
+ "person": "livens",
+ "stays": [
+  {
+   "place": "antwerp",
+   "from": "1886-09-01",
+   "to": "1886-11-05",
+   "kind": "residence",
+   "approx": true,
+   "evidence": [
+    "let569 n.1",
+    "let569",
+    "inferred: Livens studied at the Antwerp Academy from 1885; the letter contrasts Paris costs with Antwerp and sends regards to Antwerp fellow-students"
+   ]
+  }
+ ]
+}

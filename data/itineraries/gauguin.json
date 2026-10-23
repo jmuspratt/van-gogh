@@ -1,0 +1,133 @@
+{
+ "person": "gauguin",
+ "stays": [
+  {
+   "place": "paris",
+   "from": "1887-11-13",
+   "to": "1888-01-25",
+   "kind": "residence",
+   "approx": true,
+   "note": "Back from Martinique c. 13 Nov 1887; staying with Emile Schuffenecker, 29 rue Boulard",
+   "evidence": [
+    "let576 n.3",
+    "let623 n.3",
+    "let581 n.1"
+   ]
+  },
+  {
+   "place": "pont-aven",
+   "from": "1888-01-26",
+   "to": "1888-10-22",
+   "kind": "residence",
+   "approx": true,
+   "note": "Left Paris 26 Jan 1888; Gloanec boarding-house, 13 place de la Mairie; set out for Arles c. 21 Oct",
+   "evidence": [
+    "let581 n.1",
+    "let581 n.5",
+    "let695 n.3",
+    "let709 n.3",
+    "let712 n.2"
+   ]
+  },
+  {
+   "place": "arles",
+   "from": "1888-10-23",
+   "to": "1888-12-25",
+   "kind": "residence",
+   "note": "Yellow House; arrived 4 a.m. 23 Oct; left with Theo 25 Dec",
+   "evidence": [
+    "let712 n.2",
+    "let728 n.1",
+    "let788 n.4"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1888-12-26",
+   "to": "1889-05-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "Arrived 27 Dec; with the Schuffeneckers, 29 rue Boulard; studio at 16 rue Saint-Gothard from 5 Jan 1889",
+   "evidence": [
+    "let728 n.1",
+    "let737 n.6",
+    "let734 n.5",
+    "let774 n.16",
+    "let817 n.2"
+   ]
+  },
+  {
+   "place": "pont-aven",
+   "from": "1889-05-31",
+   "to": "1889-10-01",
+   "kind": "residence",
+   "approx": true,
+   "note": "Brittany with De Haan from end of May 1889, working in Pont-Aven and Le Pouldu; no letters in this span",
+   "evidence": [
+    "let817 n.2",
+    "let781 n.3",
+    "let774 n.16",
+    "let809 n.3"
+   ]
+  },
+  {
+   "place": "le-pouldu",
+   "from": "1889-10-02",
+   "to": "1890-02-07",
+   "kind": "residence",
+   "evidence": [
+    "let816 n.12",
+    "let817",
+    "let828",
+    "let840",
+    "let844"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1890-02-08",
+   "to": "1890-06-16",
+   "kind": "residence",
+   "approx": true,
+   "note": "With Schuffenecker, 12 rue Durand-Claye; departure date for Brittany not given (after let884 of c. 13 June)",
+   "evidence": [
+    "let854 n.2",
+    "let888 n.12",
+    "let859",
+    "let884"
+   ]
+  },
+  {
+   "place": "le-pouldu",
+   "from": "1890-06-17",
+   "to": "1890-08-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "'two months in Brittany with De Haan. Still the same address at Le Pouldu' (let884)",
+   "evidence": [
+    "let884",
+    "let892",
+    "let774 n.16",
+    "inferred: start date between let884 (c. 13 June, departure impending) and let892 (c. 28 June, after a five-day stay in Pont-Aven)"
+   ]
+  }
+ ],
+ "atLetters": {
+  "RM16": {
+   "place": "pont-aven",
+   "evidence": [
+    "let688",
+    "let692",
+    "inferred: unsent fragment answering let688 (Pont-Aven, c. 26 Sept 1888), written on the sketch enclosed with let693 (2 Oct 1888), while Gauguin was still in Pont-Aven"
+   ]
+  },
+  "RM23": {
+   "place": "le-pouldu",
+   "evidence": [
+    "let884",
+    "let892 n.1"
+   ],
+   "note": "Unfinished draft; let884 gave the Le Pouldu address and the sent version reached him there (let892)"
+  }
+ }
+}

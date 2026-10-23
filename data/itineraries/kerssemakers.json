@@ -1,0 +1,17 @@
+{
+ "person": "kerssemakers",
+ "stays": [
+  {
+   "place": "eindhoven",
+   "from": "1884-11-01",
+   "to": "1885-12-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Tanner; Kloosterdijk 283 (district B), opposite the station",
+   "evidence": [
+    "let470 n.3",
+    "let478 n.2"
+   ]
+  }
+ ]
+}

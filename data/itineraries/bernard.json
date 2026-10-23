@@ -1,0 +1,93 @@
+{
+ "person": "bernard",
+ "stays": [
+  {
+   "place": "asnieres",
+   "from": "1887-10-01",
+   "to": "1888-04-22",
+   "kind": "residence",
+   "approx": true,
+   "note": "Family home, 5 avenue de Beaulieu, Asnieres, with his studio in the garden (since autumn 1887)",
+   "evidence": [
+    "let594 n.14",
+    "let596 n.1",
+    "let632 n.10",
+    "let698 n.16"
+   ]
+  },
+  {
+   "place": "saint-briac",
+   "from": "1888-04-23",
+   "to": "1888-08-09",
+   "kind": "residence",
+   "approx": true,
+   "note": "Left for Saint-Briac 23 Apr, arrived 25 Apr; small house attached to Mrs Lemasson's inn; until c. 10 Aug",
+   "evidence": [
+    "let596 n.5",
+    "let599 n.3",
+    "let602 n.4",
+    "let647",
+    "let664 n.2"
+   ]
+  },
+  {
+   "place": "pont-aven",
+   "from": "1888-08-10",
+   "to": "1888-11-09",
+   "kind": "residence",
+   "approx": true,
+   "note": "Arrived 8 or 10 Aug (Gauguin to Schuffenecker 14 Aug: 'Young Bernard is here'); left for Paris c. 10 Nov",
+   "evidence": [
+    "let664 n.2",
+    "let675 n.3",
+    "let704 n.1",
+    "let721 n.6"
+   ]
+  },
+  {
+   "place": "asnieres",
+   "from": "1888-11-10",
+   "to": "1889-07-31",
+   "kind": "residence",
+   "approx": true,
+   "evidence": [
+    "let721 n.6",
+    "let698",
+    "let698 n.16",
+    "inferred: edition says 'back in Paris since about 10 November'; Vincent treated 5 avenue de Beaulieu (Asnieres) as Bernard's 'address in Paris' (let698). No letters in this span"
+   ]
+  },
+  {
+   "place": "saint-briac",
+   "from": "1889-08-01",
+   "to": "1889-08-31",
+   "kind": "residence",
+   "approx": true,
+   "evidence": [
+    "let807 n.9",
+    "let809 n.3"
+   ]
+  },
+  {
+   "place": "paris",
+   "from": "1889-09-01",
+   "to": "1889-12-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Edition: 'in Paris from September to December 1889'; the family home was at Asnieres (let698 n.16), so this may in fact be Asnieres",
+   "evidence": [
+    "let816 n.12",
+    "let807 n.9"
+   ]
+  }
+ ],
+ "atLetters": {
+  "let599": {
+   "place": "saint-briac",
+   "evidence": [
+    "let599 n.3"
+   ],
+   "note": "Bernard found this letter waiting on his arrival in Saint-Briac on 25 April 1888"
+  }
+ }
+}

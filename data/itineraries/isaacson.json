@@ -1,0 +1,18 @@
+{
+ "person": "isaacson",
+ "stays": [
+  {
+   "place": "amsterdam",
+   "from": "1889-11-27",
+   "to": "1890-06-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "Back in Amsterdam by 27 Nov 1889; RM21 is a draft, the sent note went via Theo (let875 n.3)",
+   "evidence": [
+    "let815 n.6",
+    "let843",
+    "let830"
+   ]
+  }
+ ]
+}

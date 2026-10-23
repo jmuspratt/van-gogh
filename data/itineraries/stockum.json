@@ -1,0 +1,19 @@
+{
+ "person": "stockum",
+ "stays": [
+  {
+   "place": "the-hague",
+   "from": "1873-04-30",
+   "to": "1874-12-31",
+   "kind": "residence",
+   "approx": true,
+   "note": "Married 30 Apr 1873; lived at Varkenmarkt 11a (Caroline's parents at Lange Poten 10)",
+   "evidence": [
+    "let010 n.2",
+    "let016 n.2",
+    "let010",
+    "let016"
+   ]
+  }
+ ]
+}

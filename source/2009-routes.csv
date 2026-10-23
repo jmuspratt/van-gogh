@@ -1,0 +1,670 @@
+file,date,from,to
+1.htm,1872-08-15,The Hague,Oisterwijk
+2.htm,1872-12-13,The Hague,Oisterwijk
+3.htm,1873-01-15,The Hague,Brussels
+4.htm,1873-01-28,The Hague,Brussels
+5.htm,1873-03-17,The Hague,Brussels
+6.htm,1873-03-24,The Hague,Brussels
+7.htm,1873-05-05,The Hague,Brussels
+8.htm,1873-05-09,The Hague,Brussels
+9.htm,1873-06-13,London,Brussels
+10.htm,1873-07-20,London,Brussels
+11.htm,1873-09-13,London,Brussels
+12.htm,1873-11-19,London,The Hague
+13.htm,1874-01-15,London,The Hague
+14.htm,1874-02-20,London,The Hague
+15.htm,1874-03-30,London,The Hague
+16.htm,1874-04-30,London,The Hague
+17.htm,1874-06-16,London,The Hague
+18.htm,1874-07-10,Helvoirt,The Hague
+19.htm,1874-07-21,London,The Hague
+20.htm,1874-07-31,London,The Hague
+21.htm,1874-08-10,London,The Hague
+22.htm,1875-02-15,London,The Hague
+23.htm,1875-03-06,London,The Hague
+24.htm,1875-04-06,London,The Hague
+25.htm,1875-04-15,London,The Hague
+26.htm,1875-05-08,London,The Hague
+27.htm,1875-05-31,Paris,The Hague
+28.htm,1875-06-19,Paris,The Hague
+29.htm,1875-06-29,Paris,The Hague
+30.htm,1875-07-06,Paris,The Hague
+31.htm,1875-07-15,Paris,The Hague
+32.htm,1875-07-24,Paris,The Hague
+33.htm,1875-08-13,Paris,The Hague
+34.htm,1875-08-15,Paris,The Hague
+35.htm,1875-09-01,Paris,The Hague
+36.htm,1875-09-04,Paris,The Hague
+036a.htm,1875-09-07,Paris,The Hague
+37.htm,1875-09-12,Paris,The Hague
+037a.htm,1875-09-13,Paris,The Hague
+38.htm,1875-09-17,Paris,The Hague
+39.htm,1875-09-25,Paris,The Hague
+039a.htm,1875-09-29,Paris,The Hague
+039b.htm,1875-09-27,Paris,The Hague
+40.htm,1875-09-30,Paris,The Hague
+41.htm,1875-10-06,Paris,The Hague
+42.htm,1875-10-11,Paris,The Hague
+43.htm,1875-10-14,Paris,The Hague
+44.htm,1875-11-09,Paris,The Hague
+45.htm,1875-11-15,Paris,The Hague
+46.htm,1875-12-04,Paris,The Hague
+47.htm,1875-12-09,Paris,The Hague
+48.htm,1875-12-10,Paris,The Hague
+49.htm,1875-12-13,Paris,The Hague
+50.htm,1876-01-10,Paris,The Hague
+51.htm,1876-01-15,Paris,The Hague
+52.htm,1876-01-15,Paris,The Hague
+53.htm,1876-02-02,Paris,The Hague
+54.htm,1876-02-07,Paris,The Hague
+55.htm,1876-02-19,Paris,The Hague
+56.htm,1876-03-15,Paris,The Hague
+57.htm,1876-03-25,Paris,The Hague
+58.htm,1876-03-28,Paris,The Hague
+59.htm,1876-04-04,Etten,The Hague
+61.htm,1876-04-17,Ramsgate,The Hague
+62.htm,1876-04-21,Ramsgate,The Hague
+63.htm,1876-04-28,Ramsgate,The Hague
+64.htm,1876-05-01,Ramsgate,The Hague
+65.htm,1876-05-08,Ramsgate,The Hague
+66.htm,1876-05-12,Ramsgate,The Hague
+67.htm,1876-05-31,Ramsgate,The Hague
+68.htm,1876-08-16,Isleworth,The Hague
+69.htm,1876-06-17,Ramsgate,The Hague
+70.htm,1876-07-05,Isleworth,The Hague
+71.htm,1876-07-08,Isleworth,The Hague
+72.htm,1876-08-02,Isleworth,The Hague
+73.htm,1876-08-18,Isleworth,The Hague
+74.htm,1876-08-26,Isleworth,The Hague
+75.htm,1876-10-03,Isleworth,The Hague
+76.htm,1876-10-07,Isleworth,The Hague
+77.htm,1876-10-13,Isleworth,Etten
+78.htm,1876-10-24,Isleworth,Etten
+79.htm,1876-10-31,Isleworth,Etten
+80.htm,1876-11-10,Isleworth,Etten
+82.htm,1876-11-25,Isleworth,The Hague
+082a.htm,1876-09-01,Isleworth,The Hague
+83.htm,1876-12-31,Etten,The Hague
+84.htm,1877-01-21,Dordrecht,The Hague
+85.htm,1877-02-07,Dordrecht,The Hague
+86.htm,1877-02-26,Dordrecht,The Hague
+87.htm,1877-02-28,Dordrecht,The Hague
+88.htm,1877-03-16,Dordrecht,The Hague
+89.htm,1877-03-22,Dordrecht,The Hague
+90.htm,1877-03-25,Dordrecht,The Hague
+91.htm,1877-04-08,Etten,The Hague
+92.htm,1877-03-07,Dordrecht,The Hague
+93.htm,1877-04-22,Dordrecht,The Hague
+94.htm,1877-04-30,Dordrecht,The Hague
+95.htm,1877-05-19,Amsterdam,The Hague
+96.htm,1877-05-21,Amsterdam,The Hague
+97.htm,1877-05-28,Amsterdam,The Hague
+98.htm,1877-05-30,Amsterdam,The Hague
+99.htm,1877-05-31,Amsterdam,The Hague
+100.htm,1877-06-04,Amsterdam,The Hague
+101.htm,1877-06-12,Amsterdam,The Hague
+101a.htm,1877-07-09,Amsterdam,The Hague
+102.htm,1877-07-15,Amsterdam,The Hague
+103.htm,1877-07-27,Amsterdam,The Hague
+104.htm,1877-08-03,Amsterdam,The Hague
+105.htm,1877-08-05,Amsterdam,The Hague
+106.htm,1877-08-18,Amsterdam,The Hague
+107.htm,1877-08-27,Amsterdam,The Hague
+108.htm,1877-09-04,Amsterdam,The Hague
+109.htm,1877-09-07,Amsterdam,The Hague
+110.htm,1877-09-18,Amsterdam,The Hague
+111.htm,1877-10-21,Amsterdam,The Hague
+112.htm,1877-10-30,Amsterdam,The Hague
+113.htm,1877-11-19,Amsterdam,The Hague
+114.htm,1877-11-25,Amsterdam,The Hague
+115.htm,1877-12-04,Amsterdam,The Hague
+116.htm,1877-12-09,Amsterdam,The Hague
+116a.htm,1877-12-30,Etten,The Hague
+117.htm,1878-01-09,Amsterdam,The Hague
+118.htm,1878-02-10,Amsterdam,The Hague
+119.htm,1878-02-18,Amsterdam,The Hague
+120.htm,1878-03-03,Amsterdam,The Hague
+121.htm,1878-04-03,Amsterdam,The Hague
+122.htm,1878-05-15,Amsterdam,Paris
+123.htm,1878-07-22,Etten,Paris
+124.htm,1878-08-05,Etten,Paris
+125.htm,1878-08-15,Etten,Paris
+126.htm,1878-11-15,Laeken,Paris
+127.htm,1878-12-26,Petit-Wasmes,Paris
+128.htm,1879-03-15,Petit-Wasmes,Paris
+129.htm,1879-04-15,Petit-Wasmes,Paris
+130.htm,1879-06-15,Petit-Wasmes,Paris
+131.htm,1879-08-05,Cuesmes,Paris
+132.htm,1879-08-15,Cuesmes,Paris
+133.htm,1880-07-15,Cuesmes,Paris
+134.htm,1880-08-20,Cuesmes,Paris
+135.htm,1880-09-07,Cuesmes,Paris
+136.htm,1880-09-24,Cuesmes,Paris
+137.htm,1880-10-15,Brussels,Paris
+138.htm,1880-11-01,Brussels,Paris
+139.htm,1881-01-15,Brussels,Paris
+140.htm,1881-01-15,Brussels,Paris
+142.htm,1881-04-02,Brussels,Paris
+143.htm,1881-04-12,Brussels,Paris
+144.htm,1881-04-30,Etten,Paris
+145.htm,1881-05-15,Etten,Paris
+146.htm,1881-06-15,Etten,Paris
+147.htm,1881-07-15,Etten,Paris
+148.htm,1881-08-05,Etten,Paris
+149.htm,1881-09-01,Etten,Paris
+150.htm,1881-09-15,Etten,Paris
+151.htm,1881-10-12,Etten,Paris
+152.htm,1881-10-13,Etten,Paris
+153.htm,1881-11-03,Etten,Paris
+154.htm,1881-11-07,Etten,Paris
+155.htm,1881-11-09,Etten,Paris
+156.htm,1881-11-10,Etten,Paris
+157.htm,1881-11-12,Etten,Paris
+158.htm,1881-11-18,Etten,Paris
+159.htm,1881-11-18,Etten,Paris
+160.htm,1881-11-19,Etten,Paris
+161.htm,1881-11-23,Etten,Paris
+162.htm,1881-12-02,The Hague,Paris
+163.htm,1881-12-18,The Hague,Paris
+164.htm,1881-12-21,Etten,Paris
+165.htm,1881-12-23,Etten,Paris
+166.htm,1881-12-29,The Hague,Paris
+167.htm,1882-01-01,The Hague,Paris
+168.htm,1882-01-05,The Hague,Paris
+169.htm,1882-01-07,The Hague,Paris
+170.htm,1882-01-14,The Hague,Paris
+171.htm,1882-01-21,The Hague,Paris
+172.htm,1882-01-22,The Hague,Paris
+173.htm,1882-01-26,The Hague,Paris
+174.htm,1882-02-13,The Hague,Paris
+175.htm,1882-02-13,The Hague,Paris
+176.htm,1882-02-18,The Hague,Paris
+177.htm,1882-02-25,The Hague,Paris
+178.htm,1882-03-03,The Hague,Paris
+179.htm,1882-03-07,The Hague,Paris
+180.htm,1882-03-11,The Hague,Paris
+181.htm,1882-03-11,The Hague,Paris
+182.htm,1882-03-16,The Hague,Paris
+183.htm,1882-03-24,The Hague,Paris
+184.htm,1882-04-05,The Hague,Paris
+185.htm,1882-04-05,The Hague,Paris
+186.htm,1882-04-10,The Hague,Paris
+187.htm,1882-04-15,The Hague,Paris
+188.htm,1882-04-21,The Hague,Paris
+189.htm,1882-04-21,The Hague,Paris
+190.htm,1882-04-21,The Hague,Paris
+191.htm,1882-04-25,The Hague,Paris
+192.htm,1882-05-07,The Hague,Paris
+193.htm,1882-05-14,The Hague,Paris
+193a.htm,1883-12-25,Nuenen,Paris
+194.htm,1882-05-08,The Hague,Paris
+195.htm,1882-05-01,The Hague,Paris
+196.htm,1882-05-02,The Hague,Paris
+197.htm,1882-05-12,The Hague,Paris
+198.htm,1882-05-14,The Hague,Paris
+199.htm,1882-05-16,The Hague,Paris
+200.htm,1882-05-23,The Hague,Paris
+201.htm,1882-06-02,The Hague,Paris
+202.htm,1882-05-27,The Hague,Paris
+203.htm,1882-05-30,The Hague,Paris
+204.htm,1882-06-01,The Hague,Paris
+205.htm,1882-06-03,The Hague,Paris
+206.htm,1882-06-08,The Hague,Paris
+207.htm,1882-06-10,The Hague,Paris
+208.htm,1882-06-22,The Hague,Paris
+209.htm,1882-07-01,The Hague,Paris
+210.htm,1882-07-02,The Hague,Paris
+211.htm,1882-07-04,The Hague,Paris
+212.htm,1882-07-06,The Hague,Paris
+213.htm,1882-07-06,The Hague,Paris
+214.htm,1882-07-07,The Hague,Paris
+215.htm,1882-07-15,The Hague,Paris
+216.htm,1882-07-19,The Hague,Paris
+217.htm,1882-07-19,The Hague,Paris
+218.htm,1882-07-21,The Hague,Paris
+219.htm,1882-07-23,The Hague,Paris
+220.htm,1882-07-26,The Hague,Paris
+221.htm,1882-08-01,The Hague,Paris
+222.htm,1882-08-05,The Hague,Paris
+223.htm,1882-08-05,The Hague,Paris
+224.htm,1882-08-11,The Hague,Paris
+225.htm,1882-08-14,The Hague,Paris
+226.htm,1882-08-19,The Hague,Paris
+227.htm,1882-08-20,The Hague,Paris
+228.htm,1882-09-03,The Hague,Paris
+229.htm,1882-09-09,The Hague,Paris
+230.htm,1882-09-11,The Hague,Paris
+231.htm,1882-09-17,The Hague,Paris
+232.htm,1882-09-18,The Hague,Paris
+233.htm,1882-09-19,The Hague,Paris
+234.htm,1882-09-25,The Hague,Paris
+235.htm,1882-10-01,The Hague,Paris
+236.htm,1882-10-08,The Hague,Paris
+237.htm,1882-10-22,The Hague,Paris
+238.htm,1882-10-10,The Hague,Paris
+239.htm,1882-10-29,The Hague,Paris
+240.htm,1882-11-01,The Hague,Paris
+241.htm,1882-11-02,The Hague,Paris
+242.htm,1882-11-05,The Hague,Paris
+243.htm,1882-11-07,The Hague,Paris
+244.htm,1882-11-14,The Hague,Paris
+245.htm,1882-11-16,The Hague,Paris
+246.htm,1882-11-22,The Hague,Paris
+247.htm,1882-11-24,The Hague,Paris
+248.htm,1882-11-26,The Hague,Paris
+249.htm,1882-12-01,The Hague,Paris
+250.htm,1882-12-02,The Hague,Paris
+251.htm,1882-12-04,The Hague,Paris
+252.htm,1882-12-11,The Hague,Paris
+253.htm,1882-12-15,The Hague,Paris
+254.htm,1882-12-21,The Hague,Paris
+255.htm,1882-12-29,The Hague,Paris
+256.htm,1882-12-31,The Hague,Paris
+257.htm,1883-01-03,The Hague,Paris
+258.htm,1883-01-05,The Hague,Paris
+259.htm,1883-01-11,The Hague,Paris
+260.htm,1883-01-13,The Hague,Paris
+261.htm,1883-01-21,The Hague,Paris
+262.htm,1883-01-27,The Hague,Paris
+263.htm,1883-02-03,The Hague,Paris
+264.htm,1883-02-05,The Hague,Paris
+265.htm,1883-02-08,The Hague,Paris
+266.htm,1883-02-11,The Hague,Paris
+267.htm,1883-02-15,The Hague,Paris
+268.htm,1883-02-22,The Hague,Paris
+268a.htm,1883-02-12,The Hague,Paris
+269.htm,1883-02-25,The Hague,Paris
+270.htm,1883-03-02,The Hague,Paris
+271.htm,1883-03-03,The Hague,Paris
+272.htm,1883-03-04,The Hague,Paris
+273.htm,1883-03-06,The Hague,Paris
+274.htm,1883-03-11,The Hague,Paris
+275.htm,1883-03-21,The Hague,Paris
+276.htm,1883-03-24,The Hague,Paris
+277.htm,1883-03-30,The Hague,Paris
+278.htm,1883-04-02,The Hague,Paris
+279.htm,1883-04-11,The Hague,Paris
+280.htm,1883-04-21,The Hague,Paris
+281.htm,1883-04-30,The Hague,Paris
+282.htm,1883-05-02,The Hague,Paris
+283.htm,1883-05-05,The Hague,Paris
+284.htm,1883-05-09,The Hague,Paris
+285.htm,1883-05-20,The Hague,Paris
+286.htm,1883-05-21,The Hague,Paris
+287.htm,1883-05-30,The Hague,Paris
+288.htm,1883-06-03,The Hague,Paris
+289.htm,1883-06-04,The Hague,Paris
+290.htm,1883-06-03,The Hague,Paris
+291.htm,1883-06-05,The Hague,Paris
+292.htm,1883-06-10,The Hague,Paris
+293.htm,1883-06-13,The Hague,Paris
+294.htm,1883-06-16,The Hague,Paris
+295.htm,1883-06-22,The Hague,Paris
+296.htm,1883-06-25,The Hague,Paris
+297.htm,1883-07-02,The Hague,Paris
+298.htm,1883-07-07,The Hague,Paris
+299.htm,1883-07-11,The Hague,Paris
+300.htm,1883-07-13,The Hague,Paris
+301.htm,1883-07-22,The Hague,Paris
+302.htm,1883-07-22,The Hague,Paris
+303.htm,1883-07-23,The Hague,Paris
+304.htm,1883-07-24,The Hague,Paris
+305.htm,1883-07-25,The Hague,Paris
+306.htm,1883-07-27,The Hague,Paris
+307.htm,1883-07-29,The Hague,Paris
+308.htm,1883-08-02,The Hague,Paris
+309.htm,1883-08-06,The Hague,Paris
+310.htm,1883-08-11,The Hague,Paris
+311.htm,1883-08-14,The Hague,Nuenen
+312.htm,1883-08-17,The Hague,Nuenen
+313.htm,1883-08-18,The Hague,Paris
+314.htm,1883-08-19,The Hague,Paris
+315.htm,1883-08-20,The Hague,Paris
+316.htm,1883-08-21,The Hague,Paris
+317.htm,1883-08-22,The Hague,Paris
+318.htm,1883-09-02,The Hague,Paris
+319.htm,1883-09-04,The Hague,Paris
+320.htm,1883-09-06,The Hague,Paris
+321.htm,1883-09-07,The Hague,Paris
+322.htm,1883-09-10,The Hague,Paris
+323.htm,1883-09-11,Drenthe,Paris
+324.htm,1883-09-15,Drenthe,Paris
+325.htm,1883-09-17,Drenthe,Paris
+326.htm,1883-09-22,Drenthe,Paris
+327.htm,1883-09-24,Drenthe,Paris
+328.htm,1883-09-26,Drenthe,Paris
+329.htm,1883-09-27,Drenthe,Paris
+330.htm,1883-10-03,Drenthe,Paris
+331.htm,1883-10-06,Drenthe,Paris
+332.htm,1883-10-12,Drenthe,Paris
+333.htm,1883-10-13,Drenthe,Paris
+335.htm,1883-10-22,Drenthe,Paris
+336.htm,1883-10-28,Drenthe,Paris
+337.htm,1883-10-30,Drenthe,Paris
+338.htm,1883-11-19,Drenthe,Paris
+339.htm,1883-10-07,Drenthe,Paris
+339a.htm,1883-10-30,Drenthe,Paris
+339b.htm,1883-11-03,Drenthe,Paris
+340.htm,1883-11-02,Drenthe,Paris
+341.htm,1883-11-17,Drenthe,Paris
+342.htm,1883-11-26,Drenthe,Paris
+343.htm,1883-12-01,Drenthe,Paris
+344.htm,1883-12-05,Nuenen,Paris
+345.htm,1883-12-06,Nuenen,Paris
+345a.htm,1883-12-07,Nuenen,Paris
+346.htm,1883-12-17,Nuenen,Paris
+347.htm,1883-12-18,Nuenen,Paris
+348.htm,1883-12-21,Nuenen,Paris
+349.htm,1883-12-23,Nuenen,Paris
+350.htm,1883-12-26,Nuenen,Paris
+350a.htm,1883-12-25,Nuenen,Paris
+351.htm,1884-01-02,Nuenen,Paris
+352.htm,1884-01-17,Nuenen,Paris
+353.htm,1884-01-18,Nuenen,Paris
+354.htm,1884-01-22,Nuenen,Paris
+355.htm,1884-01-24,Nuenen,Paris
+355a.htm,1885-01-05,Nuenen,Paris
+355b.htm,1885-02-05,Nuenen,Paris
+356.htm,1884-02-13,Nuenen,Paris
+357.htm,1884-02-20,Nuenen,Paris
+358.htm,1884-03-01,Nuenen,Paris
+359.htm,1884-03-09,Nuenen,Paris
+360.htm,1884-02-01,Nuenen,Paris
+361.htm,1884-03-11,Nuenen,Paris
+362.htm,1884-03-21,Nuenen,Paris
+363.htm,1884-03-26,Nuenen,Paris
+363a.htm,1884-04-05,Nuenen,Paris
+364.htm,1884-04-01,Nuenen,Paris
+365.htm,1884-04-15,Nuenen,Paris
+366.htm,1884-04-15,Nuenen,Paris
+367.htm,1884-04-30,Nuenen,Paris
+368.htm,1884-05-15,Nuenen,Paris
+369.htm,1884-05-25,Nuenen,Paris
+370.htm,1884-06-05,Nuenen,Paris
+371.htm,1884-06-05,Nuenen,Paris
+372.htm,1884-07-05,Nuenen,Paris
+373.htm,1884-08-05,Nuenen,Paris
+374.htm,1884-08-05,Nuenen,Paris
+375.htm,1884-09-23,Nuenen,Paris
+376.htm,1884-09-23,Nuenen,Paris
+377.htm,1884-09-23,Nuenen,Paris
+378.htm,1884-10-15,Nuenen,Paris
+379.htm,1884-09-23,Nuenen,Paris
+380.htm,1884-09-25,Nuenen,Paris
+381.htm,1884-10-15,Nuenen,Paris
+382.htm,1884-10-22,Nuenen,Paris
+383.htm,1884-10-25,Nuenen,Paris
+384.htm,1884-11-01,Nuenen,Paris
+385.htm,1884-11-15,Nuenen,Paris
+386.htm,1884-11-15,Nuenen,Paris
+386a.htm,1884-12-09,Nuenen,Paris
+386b.htm,1884-11-25,Nuenen,Paris
+387.htm,1884-11-15,Nuenen,Paris
+388.htm,1884-12-07,Nuenen,Paris
+388a.htm,1885-01-31,Nuenen,Paris
+388b.htm,1885-02-05,Nuenen,Paris
+389.htm,1884-12-15,Nuenen,Paris
+390.htm,1884-12-16,Nuenen,Paris
+391.htm,1884-12-25,Nuenen,Paris
+392.htm,1885-01-20,Nuenen,Paris
+393.htm,1885-01-24,Nuenen,Paris
+394.htm,1885-02-15,Nuenen,Paris
+395.htm,1885-03-01,Nuenen,Paris
+396.htm,1885-03-15,Nuenen,Paris
+397.htm,1885-04-01,Nuenen,Paris
+398.htm,1885-04-05,Nuenen,Paris
+399.htm,1885-04-11,Nuenen,Paris
+400.htm,1885-04-13,Nuenen,Paris
+401.htm,1885-04-15,Nuenen,Paris
+402.htm,1885-04-21,Nuenen,Paris
+403.htm,1885-04-25,Nuenen,Paris
+404.htm,1885-04-30,Nuenen,Paris
+405.htm,1885-05-05,Nuenen,Paris
+406.htm,1885-05-04,Nuenen,Paris
+407.htm,1885-05-06,Nuenen,Paris
+408.htm,1885-05-11,Nuenen,Paris
+409.htm,1885-05-15,Nuenen,Paris
+410.htm,1885-06-01,Nuenen,Paris
+411.htm,1885-06-05,Nuenen,Paris
+412.htm,1885-06-23,Nuenen,Paris
+413.htm,1885-06-23,Nuenen,Paris
+414.htm,1885-06-24,Nuenen,Paris
+415.htm,1885-08-23,Nuenen,Paris
+416.htm,1885-07-05,Nuenen,Paris
+417.htm,1885-07-15,Nuenen,Paris
+418.htm,1885-07-15,Nuenen,Paris
+419.htm,1885-08-06,Nuenen,Paris
+419a.htm,1885-08-03,Nuenen,Paris
+419b.htm,1885-08-07,Nuenen,Paris
+420.htm,1885-08-15,Nuenen,Paris
+421.htm,1885-08-23,Nuenen,Paris
+422.htm,1885-08-25,Nuenen,Paris
+423.htm,1885-09-05,Nuenen,Paris
+424.htm,1885-09-25,Nuenen,Paris
+425.htm,1885-09-04,Nuenen,Paris
+426.htm,1885-10-10,Nuenen,Paris
+427.htm,1885-10-15,Nuenen,Paris
+428.htm,1885-10-23,Nuenen,Paris
+429.htm,1885-10-25,Nuenen,Paris
+430.htm,1885-11-05,Nuenen,Paris
+431.htm,1885-11-10,Nuenen,Paris
+432.htm,1885-11-13,Nuenen,Paris
+433.htm,1885-11-15,Nuenen,Paris
+434.htm,1885-11-17,Nuenen,Paris
+435.htm,1885-11-20,Nuenen,Paris
+436.htm,1885-11-25,Antwerp,Paris
+437.htm,1885-11-28,Antwerp,Paris
+438.htm,1885-12-06,Antwerp,Paris
+439.htm,1885-12-11,Antwerp,Paris
+440.htm,1885-12-15,Antwerp,Paris
+441.htm,1885-12-19,Antwerp,Paris
+442.htm,1885-12-28,Antwerp,Paris
+443.htm,1886-01-05,Antwerp,Paris
+444.htm,1886-01-14,Antwerp,Paris
+445.htm,1886-01-18,Antwerp,Paris
+446.htm,1886-01-22,Antwerp,Paris
+447.htm,1886-01-28,Antwerp,Paris
+448.htm,1886-02-05,Antwerp,Paris
+449.htm,1886-02-03,Antwerp,Paris
+450.htm,1886-02-07,Antwerp,Paris
+451.htm,1886-02-07,Antwerp,Paris
+452.htm,1886-02-07,Antwerp,Paris
+453.htm,1886-02-14,Antwerp,Paris
+454.htm,1886-02-16,Antwerp,Paris
+455.htm,1886-02-16,Antwerp,Paris
+456.htm,1886-02-18,Antwerp,Paris
+457.htm,1886-02-19,Antwerp,Paris
+458.htm,1886-02-24,Antwerp,Paris
+459.htm,1886-03-01,Paris,Paris
+460.htm,1886-08-15,Paris,Paris
+461.htm,1887-07-15,Paris,Paris
+462.htm,1887-07-15,Paris,Paris
+463.htm,1888-02-21,Arles,Paris
+464.htm,1888-02-25,Arles,Paris
+465.htm,1888-02-27,Arles,Paris
+466.htm,1888-03-03,Arles,Paris
+467.htm,1888-03-09,Arles,Paris
+468.htm,1888-03-10,Arles,Paris
+469.htm,1888-03-14,Arles,Paris
+470.htm,1888-03-18,Arles,Paris
+471.htm,1888-03-24,Arles,Paris
+472.htm,1888-03-30,Arles,Paris
+473.htm,1888-04-02,Arles,Paris
+474.htm,1888-04-09,Arles,Paris
+475.htm,1888-04-04,Arles,Paris
+476.htm,1888-04-11,Arles,Paris
+477.htm,1888-04-13,Arles,Paris
+478.htm,1888-04-21,Arles,Paris
+479.htm,1888-04-24,Arles,Paris
+480.htm,1888-05-01,Arles,Paris
+481.htm,1888-05-03,Arles,Paris
+482.htm,1888-05-04,Arles,Paris
+483.htm,1888-05-07,Arles,Paris
+484.htm,1888-05-07,Arles,Paris
+485.htm,1888-05-10,Arles,Paris
+486.htm,1888-05-10,Arles,Paris
+487.htm,1888-05-12,Arles,Paris
+488.htm,1888-05-15,Arles,Paris
+489.htm,1888-05-20,Arles,Paris
+490.htm,1888-05-26,Arles,Paris
+491.htm,1888-05-27,Arles,Paris
+492.htm,1888-05-28,Arles,Paris
+493.htm,1888-05-28,Arles,Paris
+494.htm,1888-06-05,Arles,Paris
+495.htm,1888-05-29,Arles,Paris
+496.htm,1888-06-12,Arles,Paris
+497.htm,1888-06-12,Arles,Paris
+498.htm,1888-06-15,Arles,Paris
+499.htm,1888-06-04,Arles,Paris
+500.htm,1888-06-05,Arles,Paris
+501.htm,1888-06-21,Arles,Paris
+502.htm,1888-06-23,Arles,Paris
+503.htm,1888-06-28,Arles,Paris
+504.htm,1888-07-07,Arles,Paris
+505.htm,1888-07-08,Arles,Paris
+506.htm,1888-07-09,Arles,Paris
+507.htm,1888-06-29,Arles,Paris
+508.htm,1888-07-05,Arles,Paris
+509.htm,1888-07-13,Arles,Paris
+510.htm,1888-07-15,Arles,Paris
+511.htm,1888-07-15,Arles,Paris
+512.htm,1888-07-19,Arles,Paris
+513.htm,1888-07-22,Arles,Paris
+514.htm,1888-07-25,Arles,Paris
+515.htm,1888-07-26,Arles,Paris
+516.htm,1888-07-31,Arles,Paris
+517.htm,1888-08-03,Arles,Paris
+518.htm,1888-08-06,Arles,Paris
+519.htm,1888-08-08,Arles,Paris
+520.htm,1888-08-11,Arles,Paris
+521.htm,1888-08-09,Arles,Paris
+522.htm,1888-08-13,Arles,Paris
+523.htm,1888-08-18,Arles,Paris
+524.htm,1888-08-14,Arles,Paris
+524a.htm,1888-08-15,Arles,Paris
+525.htm,1888-08-15,Arles,Paris
+526.htm,1888-08-21,Arles,Paris
+527.htm,1888-08-27,Arles,Paris
+528.htm,1888-08-27,Arles,Paris
+529.htm,1888-08-29,Arles,Paris
+530.htm,1888-09-01,Arles,Paris
+531.htm,1888-09-03,Arles,Paris
+532.htm,1888-09-04,Arles,Paris
+533.htm,1888-09-08,Arles,Paris
+534.htm,1888-09-09,Arles,Paris
+535.htm,1888-09-12,Arles,Paris
+536.htm,1888-09-11,Arles,Paris
+537.htm,1888-09-16,Arles,Paris
+538.htm,1888-09-17,Arles,Paris
+538a.htm,1888-09-17,Arles,Paris
+539.htm,1888-09-17,Arles,Paris
+540.htm,1888-09-22,Arles,Paris
+541.htm,1888-09-27,Arles,Paris
+541a.htm,1888-09-26,Arles,Paris
+542.htm,1888-09-24,Arles,Paris
+543.htm,1888-09-28,Arles,Paris
+544.htm,1888-10-03,Arles,Paris
+545.htm,1888-10-07,Arles,Paris
+546.htm,1888-10-08,Arles,Paris
+547.htm,1888-10-08,Arles,Paris
+548.htm,1888-10-09,Arles,Paris
+549.htm,1888-10-10,Arles,Paris
+550.htm,1888-10-10,Arles,Paris
+551.htm,1888-10-22,Arles,Paris
+552.htm,1888-10-13,Arles,Paris
+553.htm,1888-10-14,Arles,Paris
+554.htm,1888-10-16,Arles,Paris
+555.htm,1888-10-17,Arles,Paris
+556.htm,1888-10-21,Arles,Paris
+557.htm,1888-10-24,Arles,Paris
+558.htm,1888-10-28,Arles,Paris
+558a.htm,1888-11-25,Arles,Paris
+558b.htm,1888-10-28,Arles,Paris
+559.htm,1888-11-06,Arles,Paris
+560.htm,1888-12-04,Arles,Paris
+561.htm,1888-11-12,Arles,Paris
+562.htm,1888-11-16,Arles,Paris
+563.htm,1888-11-23,Arles,Paris
+564.htm,1888-12-23,Arles,Paris
+565.htm,1888-12-23,Arles,Paris
+566.htm,1889-01-04,Arles,Paris
+567.htm,1889-01-02,Arles,Paris
+568.htm,1889-01-07,Arles,Paris
+569.htm,1889-01-07,Arles,Paris
+570.htm,1889-01-09,Arles,Paris
+571.htm,1889-01-17,Arles,Paris
+572.htm,1889-01-19,Arles,Paris
+573.htm,1889-01-22,Arles,Paris
+574.htm,1889-01-28,Arles,Paris
+575.htm,1889-01-30,Arles,Paris
+576.htm,1889-02-03,Arles,Paris
+577.htm,1889-02-17,Arles,Paris
+578.htm,1889-02-22,Arles,Paris
+579.htm,1889-03-19,Arles,Paris
+580.htm,1889-03-22,Arles,Paris
+581.htm,1889-03-24,Arles,Paris
+581a.htm,1889-03-26,Arles,Paris
+582.htm,1889-03-29,Arles,Paris
+583.htm,1889-04-05,Arles,Paris
+584.htm,1889-04-13,Arles,Paris
+585.htm,1889-04-21,Arles,Paris
+586.htm,1889-04-24,Arles,Paris
+587.htm,1889-04-26,Arles,Paris
+588.htm,1889-04-30,Arles,Paris
+589.htm,1889-05-02,Arles,Paris
+590.htm,1889-05-03,Arles,Paris
+591.htm,1889-05-12,Saint-Remy,Paris
+592.htm,1889-05-22,Saint-Remy,Paris
+593.htm,1889-06-02,Saint-Remy,Paris
+594.htm,1889-06-09,Saint-Remy,Paris
+595.htm,1889-06-17,Saint-Remy,Paris
+596.htm,1889-06-25,Saint-Remy,Paris
+597.htm,1889-07-02,Saint-Remy,Paris
+598.htm,1889-07-02,Saint-Remy,Paris
+599.htm,1889-07-06,Saint-Remy,Paris
+600.htm,1889-07-09,Saint-Remy,Paris
+601.htm,1889-08-22,Saint-Remy,Paris
+602.htm,1889-09-03,Saint-Remy,Paris
+603.htm,1889-07-06,Saint-Remy,Paris
+604.htm,1889-09-05,Saint-Remy,Paris
+605.htm,1889-09-07,Saint-Remy,Paris
+607.htm,1889-09-19,Saint-Remy,Paris
+608.htm,1889-09-28,Saint-Remy,Paris
+609.htm,1889-10-05,Saint-Remy,Paris
+610.htm,1889-10-08,Saint-Remy,Paris
+611.htm,1889-10-25,Saint-Remy,Paris
+613.htm,1889-11-02,Saint-Remy,Paris
+614.htm,1889-11-17,Saint-Remy,Paris
+615.htm,1889-11-21,Saint-Remy,Paris
+616.htm,1889-12-10,Saint-Remy,Paris
+617.htm,1889-12-15,Saint-Remy,Paris
+618.htm,1889-12-07,Saint-Remy,Paris
+619.htm,1889-12-20,Saint-Remy,Paris
+620.htm,1890-01-01,Saint-Remy,Paris
+621.htm,1890-01-03,Saint-Remy,Paris
+622.htm,1890-01-04,Saint-Remy,Paris
+624.htm,1890-01-31,Saint-Remy,Paris
+625.htm,1890-02-02,Saint-Remy,Paris
+626.htm,1890-02-10,Saint-Remy,Paris
+628.htm,1890-03-15,Saint-Remy,Paris
+629.htm,1890-04-30,Saint-Remy,Paris
+630.htm,1890-05-02,Saint-Remy,Paris
+631.htm,1890-05-04,Saint-Remy,Paris
+632.htm,1890-05-03,Saint-Remy,Paris
+633.htm,1890-05-11,Saint-Remy,Paris
+634.htm,1890-05-13,Saint-Remy,Paris
+635.htm,1890-05-20,Auvers-sur-Oise,Paris
+636.htm,1890-05-21,Auvers-sur-Oise,Paris
+637.htm,1890-05-25,Auvers-sur-Oise,Paris
+638.htm,1890-06-03,Auvers-sur-Oise,Paris
+640.htm,1890-06-10,Auvers-sur-Oise,Paris
+641.htm,1890-06-14,Auvers-sur-Oise,Paris
+642.htm,1890-06-17,Auvers-sur-Oise,Paris
+644.htm,1890-06-24,Auvers-sur-Oise,Paris
+645.htm,1890-06-28,Auvers-sur-Oise,Paris
+646.htm,1890-07-02,Auvers-sur-Oise,Paris
+647.htm,1890-07-07,Auvers-sur-Oise,Paris
+648.htm,1890-07-10,Auvers-sur-Oise,Paris
+649.htm,1890-07-10,Auvers-sur-Oise,Paris
+651.htm,1890-07-23,Auvers-sur-Oise,Paris
+652.htm,1890-07-23,Auvers-sur-Oise,Paris

@@ -1,0 +1,16 @@
+{
+ "person": "verzijl",
+ "stays": [
+  {
+   "place": "helvoirt",
+   "from": "1872-10-01",
+   "to": "1872-11-30",
+   "kind": "residence",
+   "approx": true,
+   "note": "Retired; lodging at Jagtlust, a country house of the De Jonge van Zwijnsbergen family",
+   "evidence": [
+    "let001a n.4"
+   ]
+  }
+ ]
+}

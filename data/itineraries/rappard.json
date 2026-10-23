@@ -1,0 +1,115 @@
+{
+ "person": "rappard",
+ "stays": [
+  {
+   "place": "utrecht",
+   "from": "1881-09-01",
+   "to": "1881-10-17",
+   "kind": "residence",
+   "approx": true,
+   "note": "Parents' house, Heerenstraat A 1173 (now Herenstraat 23/23bis), Utrecht; let176 (15 Oct) discusses his still-pending plan to go to Brussels",
+   "evidence": [
+    "let168 n.8",
+    "let176 n.2",
+    "let176"
+   ]
+  },
+  {
+   "place": "brussels",
+   "from": "1881-10-18",
+   "to": "1881-12-29",
+   "kind": "residence",
+   "approx": true,
+   "note": "Second winter course at the Brussels Academy; rooms at rue Lombard 17",
+   "evidence": [
+    "let178 n.1",
+    "let178",
+    "let195 n.1",
+    "let195",
+    "inferred: left after let176 (15 Oct, plans still pending; visited Etten en route per let178 n.9) and was back in the Netherlands by let195 (30 Dec); exact dates unknown"
+   ]
+  },
+  {
+   "place": "utrecht",
+   "from": "1881-12-30",
+   "to": "1885-08-20",
+   "kind": "residence",
+   "approx": true,
+   "note": "Parents' house and studio, Heerenstraat A 1173 (now Herenstraat 23/23bis). Summer 1885: working on the Ruimzicht brickyard painting at Jutphaas just south of Utrecht (let529 n.4, let531); then to Terschelling (let529)",
+   "evidence": [
+    "let195",
+    "let195 n.1",
+    "let416 n.3",
+    "let344 n.9",
+    "let277",
+    "let503"
+   ]
+  },
+  {
+   "place": "drenthe",
+   "from": "1882-07-01",
+   "to": "1882-08-31",
+   "kind": "trip",
+   "approx": true,
+   "note": "With L.W.R. Wenckebach, 'July-August 1882' (let516 n.2). Caveat: let257 (14 Aug) says 'He has been to Drenthe', so he may already have been back in Utrecht when let256 (13 Aug) was written",
+   "evidence": [
+    "let516 n.2",
+    "let256 n.1",
+    "let277"
+   ]
+  },
+  {
+   "place": "soden",
+   "from": "1883-07-01",
+   "to": "1883-08-18",
+   "kind": "trip",
+   "approx": true,
+   "note": "Health cure at Soden, Germany, 'July and August 1883' (let290 n.8); let359 (3 Jul) written 'while you're travelling'; back and visiting Vincent in The Hague shortly before 21 Aug (let378)",
+   "evidence": [
+    "let290 n.8",
+    "let354 n.17",
+    "let359",
+    "let360",
+    "let378"
+   ]
+  },
+  {
+   "place": "drenthe",
+   "from": "1884-07-01",
+   "to": "1884-09-30",
+   "kind": "trip",
+   "approx": true,
+   "note": "Walking tour across the Hondsrug with Wenckebach, early July to end Sept 1884 (let454 n.1). Conflicts with let378 n.6 (Terschelling July-Sept 1884) and let460 (letter from Terschelling c. 19-21 Sept); late-Sept letters are pinned to Terschelling below",
+   "evidence": [
+    "let454 n.1",
+    "let516 n.2",
+    "let454",
+    "let459"
+   ]
+  }
+ ],
+ "atLetters": {
+  "let459": {
+   "place": "terschelling",
+   "evidence": [
+    "let459 n.5",
+    "let460"
+   ],
+   "note": "Vincent assumed Drenthe, but Van Rappard's letter from Terschelling crossed this one (let460)"
+  },
+  "let460": {
+   "place": "terschelling",
+   "evidence": [
+    "let460",
+    "let459 n.5"
+   ]
+  },
+  "let462": {
+   "place": "terschelling",
+   "evidence": [
+    "let459 n.5",
+    "inferred: n.5 places him on Terschelling until the end of September; letter dated c. 24-29 Sept 1884"
+   ]
+  }
+ }
+}
