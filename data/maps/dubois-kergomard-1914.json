@@ -1,0 +1,893 @@
+{
+ "title": "Europe centrale. Extrait de la carte générale d'Europe",
+ "authors": "Marcel Dubois & J.-G. Kergomard",
+ "publisher": "Augustin Challamel, Paris",
+ "year": 1914,
+ "scale": "1:3,000,000",
+ "source": "https://gallica.bnf.fr/ark:/12148/btv1b53258198r",
+ "rights": "Public domain (Bibliothèque nationale de France, Gallica)",
+ "image": "vendor/maps/dubois-kergomard-1914/europe-centrale-1914.jpg",
+ "size": [
+  12632,
+  8860
+ ],
+ "anchors": {
+  "brest": {
+   "name": "Brest",
+   "wikidata": "Q12193",
+   "lat": 48.39056,
+   "lon": -4.48611
+  },
+  "bordeaux": {
+   "name": "Bordeaux",
+   "wikidata": "Q1479",
+   "lat": 44.83778,
+   "lon": -0.57944
+  },
+  "lyon": {
+   "name": "Lyon",
+   "wikidata": "Q456",
+   "lat": 45.7675,
+   "lon": 4.835
+  },
+  "strasbourg": {
+   "name": "Strasbourg",
+   "wikidata": "Q6602",
+   "lat": 48.57333,
+   "lon": 7.75222
+  },
+  "frankfurt": {
+   "name": "Frankfurt",
+   "wikidata": "Q1794",
+   "lat": 50.11056,
+   "lon": 8.68222
+  },
+  "cologne": {
+   "name": "Cologne",
+   "wikidata": "Q365",
+   "lat": 50.94222,
+   "lon": 6.95778
+  },
+  "hamburg": {
+   "name": "Hamburg",
+   "wikidata": "Q1055",
+   "lat": 53.55,
+   "lon": 10.0
+  },
+  "groningen": {
+   "name": "Groningen",
+   "wikidata": "Q749",
+   "lat": 53.21889,
+   "lon": 6.5675
+  },
+  "berlin": {
+   "name": "Berlin",
+   "wikidata": "Q64",
+   "lat": 52.51667,
+   "lon": 13.38333
+  },
+  "munich": {
+   "name": "Munich",
+   "wikidata": "Q1726",
+   "lat": 48.1375,
+   "lon": 11.575
+  },
+  "nice": {
+   "name": "Nice",
+   "wikidata": "Q33959",
+   "lat": 43.70194,
+   "lon": 7.26833
+  },
+  "nantes": {
+   "name": "Nantes",
+   "wikidata": "Q12191",
+   "lat": 47.21722,
+   "lon": -1.55389
+  },
+  "rouen": {
+   "name": "Rouen",
+   "wikidata": "Q30974",
+   "lat": 49.44306,
+   "lon": 1.1025
+  },
+  "le-havre": {
+   "name": "Le Havre",
+   "wikidata": "Q42810",
+   "lat": 49.49417,
+   "lon": 0.10806
+  },
+  "calais": {
+   "name": "Calais",
+   "wikidata": "Q6454",
+   "lat": 50.9475,
+   "lon": 1.85556
+  },
+  "dover": {
+   "name": "Dover",
+   "wikidata": "Q179224",
+   "lat": 51.1275,
+   "lon": 1.31222
+  },
+  "southampton": {
+   "name": "Southampton",
+   "wikidata": "Q79848",
+   "lat": 50.90667,
+   "lon": -1.40444
+  },
+  "metz": {
+   "name": "Metz",
+   "wikidata": "Q22690",
+   "lat": 49.11972,
+   "lon": 6.17694
+  },
+  "dijon": {
+   "name": "Dijon",
+   "wikidata": "Q7003",
+   "lat": 47.32306,
+   "lon": 5.04194
+  },
+  "toulouse": {
+   "name": "Toulouse",
+   "wikidata": "Q7880",
+   "lat": 43.60444,
+   "lon": 1.44333
+  },
+  "geneva": {
+   "name": "Geneva",
+   "wikidata": "Q71",
+   "lat": 46.2,
+   "lon": 6.15
+  },
+  "basel": {
+   "name": "Basel",
+   "wikidata": "Q78",
+   "lat": 47.55806,
+   "lon": 7.58778
+  },
+  "bremen": {
+   "name": "Bremen",
+   "wikidata": "Q24879",
+   "lat": 53.07583,
+   "lon": 8.80722
+  },
+  "norwich": {
+   "name": "Norwich",
+   "wikidata": "Q130191",
+   "lat": 52.62861,
+   "lon": 1.29278
+  },
+  "plymouth": {
+   "name": "Plymouth",
+   "wikidata": "Q43382",
+   "lat": 50.37139,
+   "lon": -4.14222
+  },
+  "perpignan": {
+   "name": "Perpignan",
+   "wikidata": "Q6730",
+   "lat": 42.6975,
+   "lon": 2.89472
+  },
+  "montpellier": {
+   "name": "Montpellier",
+   "wikidata": "Q6441",
+   "lat": 43.61092,
+   "lon": 3.87723
+  },
+  "tours": {
+   "name": "Tours",
+   "wikidata": "Q288",
+   "lat": 47.39278,
+   "lon": 0.68833
+  },
+  "reims": {
+   "name": "Reims",
+   "wikidata": "Q41876",
+   "lat": 49.26528,
+   "lon": 4.02861
+  },
+  "luxembourg": {
+   "name": "Luxembourg",
+   "wikidata": "Q1842",
+   "lat": 49.61139,
+   "lon": 6.13
+  },
+  "hanover": {
+   "name": "Hanover",
+   "wikidata": "Q1715",
+   "lat": 52.37444,
+   "lon": 9.73861
+  },
+  "kassel": {
+   "name": "Kassel",
+   "wikidata": "Q2865",
+   "lat": 51.31578,
+   "lon": 9.49792
+  },
+  "nuremberg": {
+   "name": "Nuremberg",
+   "wikidata": "Q2090",
+   "lat": 49.45389,
+   "lon": 11.0775
+  },
+  "zurich": {
+   "name": "Zurich",
+   "wikidata": "Q72",
+   "lat": 47.37444,
+   "lon": 8.54111
+  },
+  "lille": {
+   "name": "Lille",
+   "wikidata": "Q648",
+   "lat": 50.63194,
+   "lon": 3.0575
+  },
+  "s-hertogenbosch": {
+   "name": "Q2766547",
+   "wikidata": "Q2766547",
+   "lat": 51.7,
+   "lon": 5.31667
+  },
+  "helmond": {
+   "name": "Helmond",
+   "wikidata": "Q9844",
+   "lat": 51.47968,
+   "lon": 5.65559
+  },
+  "concarneau": {
+   "name": "Concarneau",
+   "wikidata": "Q17393",
+   "lat": 47.87528,
+   "lon": -3.91889
+  },
+  "dinard": {
+   "name": "Dinard",
+   "wikidata": "Q131600",
+   "lat": 48.6325,
+   "lon": -2.06167
+  },
+  "margate": {
+   "name": "Margate",
+   "wikidata": "Q618045",
+   "lat": 51.385,
+   "lon": 1.3838
+  },
+  "hertford": {
+   "name": "Hertford",
+   "wikidata": "Q9681",
+   "lat": 51.795,
+   "lon": -0.078
+  },
+  "luton": {
+   "name": "Luton",
+   "wikidata": "Q203889",
+   "lat": 51.87833,
+   "lon": -0.41472
+  },
+  "la-ciotat": {
+   "name": "La Ciotat",
+   "wikidata": "Q231554",
+   "lat": 43.17611,
+   "lon": 5.60806
+  },
+  "tarascon": {
+   "name": "Tarascon",
+   "wikidata": "Q234924",
+   "lat": 43.805,
+   "lon": 4.65944
+  },
+  "avignon": {
+   "name": "Avignon",
+   "wikidata": "Q6397",
+   "lat": 43.94861,
+   "lon": 4.80833
+  },
+  "pontoise": {
+   "name": "Pontoise",
+   "wikidata": "Q201352",
+   "lat": 49.05083,
+   "lon": 2.10083
+  },
+  "mons": {
+   "name": "Mons",
+   "wikidata": "Q83407",
+   "lat": 50.45472,
+   "lon": 3.9525
+  },
+  "assen": {
+   "name": "Assen",
+   "wikidata": "Q798",
+   "lat": 52.99528,
+   "lon": 6.56056
+  },
+  "meppel": {
+   "name": "Meppel",
+   "wikidata": "Q60425",
+   "lat": 52.70333,
+   "lon": 6.19167
+  },
+  "wiesbaden": {
+   "name": "Wiesbaden",
+   "wikidata": "Q1721",
+   "lat": 50.0825,
+   "lon": 8.24
+  },
+  "mainz": {
+   "name": "Mainz",
+   "wikidata": "Q1720",
+   "lat": 49.99944,
+   "lon": 8.27361
+  },
+  "lorient": {
+   "name": "Lorient",
+   "wikidata": "Q71724",
+   "lat": 47.74583,
+   "lon": -3.36639
+  },
+  "amersfoort": {
+   "name": "Amersfoort",
+   "wikidata": "Q992",
+   "lat": 52.15,
+   "lon": 5.38
+  },
+  "aigues-mortes": {
+   "name": "Aigues-Mortes",
+   "wikidata": "Q193809",
+   "lat": 43.56667,
+   "lon": 4.1925
+  },
+  "nimes": {
+   "name": "Nîmes",
+   "wikidata": "Q42807",
+   "lat": 43.83833,
+   "lon": 4.35972
+  },
+  "grenaa": {
+   "name": "Grenaa",
+   "wikidata": "Q3619316",
+   "lat": 56.41333,
+   "lon": 10.87583
+  }
+ },
+ "gcps": {
+  "brest": [
+   1531,
+   3598
+  ],
+  "the-hague": [
+   4384,
+   2771
+  ],
+  "marseille": [
+   3803,
+   6621
+  ],
+  "amsterdam": [
+   4572,
+   2697
+  ],
+  "laeken": [
+   4263,
+   3290
+  ],
+  "brussels": [
+   4268,
+   3309
+  ],
+  "arles": [
+   3624,
+   6397
+  ],
+  "london": [
+   3171,
+   2714
+  ],
+  "paris": [
+   3492,
+   4020
+  ],
+  "antwerp": [
+   4312,
+   3161
+  ],
+  "dordrecht": [
+   4447,
+   2931
+  ],
+  "eindhoven": [
+   4607,
+   3133
+  ],
+  "utrecht": [
+   4597,
+   2812
+  ],
+  "lyon": [
+   3870,
+   5526
+  ],
+  "cologne": [
+   4963,
+   3437
+  ],
+  "groningen": [
+   5081,
+   2428
+  ],
+  "nantes": [
+   2191,
+   4366
+  ],
+  "rouen": [
+   3215,
+   3672
+  ],
+  "calais": [
+   3595,
+   3090
+  ],
+  "strasbourg": [
+   4972,
+   4520
+  ],
+  "montpellier": [
+   3360,
+   6373
+  ],
+  "geneva": [
+   4306,
+   5436
+  ],
+  "dijon": [
+   4093,
+   4880
+  ],
+  "reims": [
+   4011,
+   3979
+  ],
+  "le-havre": [
+   2946,
+   3571
+  ],
+  "leiden": [
+   4436,
+   2763
+  ],
+  "breda": [
+   4439,
+   3023
+  ],
+  "hoogeveen": [
+   5017,
+   2636
+  ],
+  "leeuwarden": [
+   4884,
+   2388
+  ],
+  "s-hertogenbosch": [
+   4599.0,
+   3013.0
+  ],
+  "helmond": [
+   4675.0,
+   3126.0
+  ],
+  "ramsgate": [
+   3545,
+   2915
+  ],
+  "concarneau": [
+   1621.0,
+   3862.0
+  ],
+  "dinard": [
+   2246.0,
+   3742.0
+  ],
+  "margate": [
+   3539.0,
+   2886.0
+  ],
+  "hertford": [
+   3207.0,
+   2605.0
+  ],
+  "luton": [
+   3131.0,
+   2544.0
+  ],
+  "la-ciotat": [
+   3863.0,
+   6684.0
+  ],
+  "tarascon": [
+   3630,
+   6371
+  ],
+  "avignon": [
+   3686,
+   6307
+  ],
+  "pontoise": [
+   3448,
+   3915
+  ],
+  "mons": [
+   4117,
+   3456
+  ],
+  "assen": [
+   5056,
+   2516
+  ],
+  "meppel": [
+   4929,
+   2637
+  ],
+  "wiesbaden": [
+   5245,
+   3866
+  ],
+  "mainz": [
+   5260,
+   3917
+  ],
+  "lorient": [
+   1762,
+   3977
+  ],
+  "amersfoort": [
+   4679,
+   2817
+  ],
+  "aigues-mortes": [
+   3461,
+   6426
+  ],
+  "nimes": [
+   3534,
+   6314
+  ],
+  "terschelling": [
+   4789,
+   2280
+  ],
+  "grenaa": [
+   6418.0,
+   1260.0
+  ]
+ },
+ "model": {
+  "degree": 3,
+  "origin": [
+   3.807994423076923,
+   49.60614942307692
+  ],
+  "cx": [
+   3977.2676874186805,
+   109.29970915058878,
+   0.8931873252614687,
+   0.03311303990647558,
+   273.9177046478759,
+   -5.923278483153289,
+   -0.05318829997234538,
+   0.5728148852932815,
+   -0.09917375664150099,
+   0.046489532252208095
+  ],
+  "cy": [
+   3808.210106123815,
+   -429.37458975097576,
+   0.43701032753861097,
+   0.12851182577976838,
+   70.50981334366503,
+   -2.4940701247723056,
+   -0.14652870151519956,
+   -1.6703754410057439,
+   0.2143076925719315,
+   -0.017954102611024685
+  ],
+  "pxPerKm": 3.982,
+  "rmsPx": 9.32,
+  "looMedianPx": 8.99
+ },
+ "positions": {
+  "amsterdam": {
+   "x": 4572.0,
+   "y": 2697.0,
+   "printed": true
+  },
+  "antwerp": {
+   "x": 4312.0,
+   "y": 3161.0,
+   "printed": true
+  },
+  "arles": {
+   "x": 3624.0,
+   "y": 6397.0,
+   "printed": true
+  },
+  "asnieres": {
+   "x": 3479.8,
+   "y": 3992.8,
+   "printed": false
+  },
+  "auvers-sur-oise": {
+   "x": 3467.9,
+   "y": 3915.8,
+   "printed": false
+  },
+  "baarn": {
+   "x": 4651.2,
+   "y": 2785.0,
+   "printed": false
+  },
+  "belle-ile": {
+   "x": 1747.9,
+   "y": 4158.0,
+   "printed": false
+  },
+  "breda": {
+   "x": 4439.0,
+   "y": 3023.0,
+   "printed": true
+  },
+  "brussels": {
+   "x": 4268.0,
+   "y": 3309.0,
+   "printed": true
+  },
+  "cassis": {
+   "x": 3845.8,
+   "y": 6666.4,
+   "printed": false
+  },
+  "courrieres": {
+   "x": 3840.0,
+   "y": 3383.0,
+   "printed": false
+  },
+  "cuesmes": {
+   "x": 4098.9,
+   "y": 3459.9,
+   "printed": false
+  },
+  "dordrecht": {
+   "x": 4447.0,
+   "y": 2931.0,
+   "printed": true
+  },
+  "drenthe": {
+   "x": 5057.1,
+   "y": 2556.7,
+   "printed": false
+  },
+  "eindhoven": {
+   "x": 4607.0,
+   "y": 3133.0,
+   "printed": true
+  },
+  "etten": {
+   "x": 4412.9,
+   "y": 3020.4,
+   "printed": false
+  },
+  "frameries": {
+   "x": 4087.8,
+   "y": 3469.6,
+   "printed": false
+  },
+  "ghent": {
+   "x": 4115.5,
+   "y": 3182.5,
+   "printed": false
+  },
+  "giverny": {
+   "x": 3290.9,
+   "y": 3863.2,
+   "printed": false
+  },
+  "haarlem": {
+   "x": 4501.2,
+   "y": 2673.6,
+   "printed": false
+  },
+  "helvoirt": {
+   "x": 4575.5,
+   "y": 3031.4,
+   "printed": false
+  },
+  "hengelo": {
+   "x": 5048.4,
+   "y": 2849.1,
+   "printed": false
+  },
+  "holbaekgaard": {
+   "x": 6288.1,
+   "y": 1170.5,
+   "printed": false
+  },
+  "hoogeveen": {
+   "x": 5017.0,
+   "y": 2636.0,
+   "printed": true
+  },
+  "isleworth": {
+   "x": 3098.5,
+   "y": 2720.3,
+   "printed": false
+  },
+  "laeken": {
+   "x": 4263.0,
+   "y": 3290.0,
+   "printed": true
+  },
+  "le-pouldu": {
+   "x": 1707.1,
+   "y": 3945.2,
+   "printed": false
+  },
+  "leeuwarden": {
+   "x": 4884.0,
+   "y": 2388.0,
+   "printed": true
+  },
+  "leiden": {
+   "x": 4436.0,
+   "y": 2763.0,
+   "printed": true
+  },
+  "leiderdorp": {
+   "x": 4449.3,
+   "y": 2760.9,
+   "printed": false
+  },
+  "lille": {
+   "x": 3889.6,
+   "y": 3316.7,
+   "printed": false
+  },
+  "london": {
+   "x": 3171.0,
+   "y": 2714.0,
+   "printed": true
+  },
+  "marseille": {
+   "x": 3803.0,
+   "y": 6621.0,
+   "printed": true
+  },
+  "middelharnis": {
+   "x": 4305.3,
+   "y": 2912.9,
+   "printed": false
+  },
+  "mons": {
+   "x": 4117.0,
+   "y": 3456.0,
+   "printed": true
+  },
+  "netherlands": {
+   "x": 4730.4,
+   "y": 2755.9,
+   "printed": false
+  },
+  "nieuw-amsterdam": {
+   "x": 5109.3,
+   "y": 2658.9,
+   "printed": false
+  },
+  "nuenen": {
+   "x": 4643.0,
+   "y": 3121.6,
+   "printed": false
+  },
+  "oisterwijk": {
+   "x": 4562.7,
+   "y": 3050.0,
+   "printed": false
+  },
+  "paris": {
+   "x": 3492.0,
+   "y": 4020.0,
+   "printed": true
+  },
+  "patureages": {
+   "x": 4080.9,
+   "y": 3465.6,
+   "printed": false
+  },
+  "pont-aven": {
+   "x": 1664.4,
+   "y": 3889.2,
+   "printed": false
+  },
+  "princenhage": {
+   "x": 4440.8,
+   "y": 3024.4,
+   "printed": false
+  },
+  "ramsgate": {
+   "x": 3545.0,
+   "y": 2915.0,
+   "printed": true
+  },
+  "saint-briac": {
+   "x": 2222.3,
+   "y": 3736.4,
+   "printed": false
+  },
+  "saint-remy": {
+   "x": 3680.3,
+   "y": 6374.1,
+   "printed": false
+  },
+  "saintes-maries-de-la-mer": {
+   "x": 3522.4,
+   "y": 6486.0,
+   "printed": false
+  },
+  "soden": {
+   "x": 5322.6,
+   "y": 3866.3,
+   "printed": false
+  },
+  "soesterberg": {
+   "x": 4640.6,
+   "y": 2824.7,
+   "printed": false
+  },
+  "terschelling": {
+   "x": 4789.0,
+   "y": 2280.0,
+   "printed": true
+  },
+  "the-hague": {
+   "x": 4384.0,
+   "y": 2771.0,
+   "printed": true
+  },
+  "utrecht": {
+   "x": 4597.0,
+   "y": 2812.0,
+   "printed": true
+  },
+  "voorburg": {
+   "x": 4394.3,
+   "y": 2789.2,
+   "printed": false
+  },
+  "wasmes": {
+   "x": 4076.6,
+   "y": 3464.3,
+   "printed": false
+  },
+  "weesp": {
+   "x": 4597.9,
+   "y": 2730.0,
+   "printed": false
+  },
+  "welwyn": {
+   "x": 3180.0,
+   "y": 2579.9,
+   "printed": false
+  },
+  "winschoten": {
+   "x": 5194.8,
+   "y": 2480.7,
+   "printed": false
+  },
+  "zundert": {
+   "x": 4408.5,
+   "y": 3064.9,
+   "printed": false
+  },
+  "zweeloo": {
+   "x": 5082.9,
+   "y": 2617.8,
+   "printed": false
+  }
+ }
+}
