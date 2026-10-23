@@ -1,0 +1,213 @@
+:root {
+  --ink: #e9e1cf;
+  --ink-dim: #a69d8a;
+  --paper: #15130f;
+  --rule: rgba(233, 225, 207, 0.16);
+  --vincent: #7cc8ff;
+  --theo: #ffaa4c;
+  --other: #eadcb8;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: -apple-system, "Helvetica Neue", Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #0d0c0a;
+  color: var(--ink);
+  font: 14px/1.45 var(--serif);
+}
+
+a { color: inherit; }
+
+#stage { position: fixed; inset: 0; }
+
+/* Darken the edges like an old print on a table. */
+#vignette {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(ellipse at 50% 45%, transparent 45%, rgba(8, 7, 5, 0.75) 100%);
+}
+
+#overlay { position: fixed; inset: 0; pointer-events: none; }
+
+.person-label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font: 600 12px/1 var(--sans);
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  text-shadow: 0 0 4px #000, 0 0 2px #000;
+}
+.person-label.vincent { color: var(--vincent); }
+.person-label.theo { color: var(--theo); }
+
+#panel {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  width: 260px;
+  padding: 16px 18px;
+  background: rgba(16, 14, 11, 0.82);
+  border: 1px solid var(--rule);
+  backdrop-filter: blur(6px);
+}
+#panel h1 {
+  margin: 0 0 12px;
+  font-size: 21px;
+  font-weight: normal;
+  letter-spacing: 0.01em;
+}
+#panel h1 span { display: block; color: var(--ink-dim); font-size: 14px; }
+
+#filters label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 4px 0;
+  font-family: var(--sans);
+  font-size: 12px;
+  cursor: pointer;
+}
+#filters label span { margin-left: auto; color: var(--ink-dim); }
+#filters input { accent-color: currentColor; }
+#filters .vincent-theo, #filters .vincent-other { color: var(--vincent); }
+#filters .theo-vincent { color: var(--theo); }
+#filters .other-vincent { color: var(--other); }
+
+#views { display: flex; gap: 6px; margin: 12px 0 10px; }
+button, select {
+  font: 11px var(--sans);
+  color: var(--ink);
+  background: rgba(233, 225, 207, 0.07);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+button:hover { background: rgba(233, 225, 207, 0.16); }
+
+.hint { margin: 0 0 8px; font: 10.5px/1.4 var(--sans); color: var(--ink-dim); }
+.credit { margin: 0; font: 10.5px/1.4 var(--sans); color: var(--ink-dim); }
+
+/* The big date, lower left, like the 2008 sketches. */
+#date {
+  position: fixed;
+  left: 28px;
+  bottom: 74px;
+  pointer-events: none;
+  text-shadow: 0 0 12px #000;
+}
+#date .year { font-size: 64px; line-height: 1; letter-spacing: 0.02em; }
+#date .month { font-size: 20px; color: var(--ink-dim); margin-top: 2px; }
+
+#timeline {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 58px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 20px 10px;
+  background: linear-gradient(transparent, rgba(8, 7, 5, 0.92) 35%);
+}
+#timeline .play { width: 34px; height: 30px; font-size: 13px; }
+#timeline .track {
+  position: relative;
+  flex: 1;
+  height: 38px;
+  cursor: ew-resize;
+  touch-action: none;
+}
+#timeline canvas { position: absolute; left: 0; right: 0; top: 0; width: 100%; height: 26px; }
+#timeline .playhead {
+  position: absolute;
+  top: -4px;
+  bottom: 10px;
+  width: 2px;
+  margin-left: -1px;
+  background: #fff;
+  box-shadow: 0 0 6px #fff;
+}
+#timeline .years { position: absolute; left: 0; right: 0; bottom: 0; height: 12px; }
+#timeline .years span {
+  position: absolute;
+  transform: translateX(-50%);
+  font: 10px/1 var(--sans);
+  color: var(--ink-dim);
+}
+
+#tooltip {
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: none;
+  max-width: 280px;
+  padding: 7px 9px;
+  pointer-events: none;
+  font: 12px/1.35 var(--sans);
+  background: rgba(16, 14, 11, 0.94);
+  border: 1px solid var(--rule);
+}
+#tooltip span { color: var(--ink-dim); }
+
+#reader {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(520px, 92vw);
+  overflow-y: auto;
+  padding: 28px 34px 80px;
+  background: rgba(20, 18, 14, 0.96);
+  border-left: 1px solid var(--rule);
+  transform: translateX(105%);
+  transition: transform 0.35s ease;
+}
+#reader.open { transform: none; }
+#reader .close {
+  position: sticky;
+  top: 0;
+  float: right;
+  margin: -14px -20px 0 0;
+  font-size: 20px;
+  line-height: 1;
+  padding: 4px 10px;
+}
+#reader .number { font: 11px var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-dim); }
+#reader h2 { margin: 6px 0 4px; font-size: 22px; font-weight: normal; }
+#reader h2 span { color: var(--ink-dim); font-style: italic; }
+#reader .date { font-size: 15px; }
+#reader .basis { font: 11px var(--sans); color: var(--ink-dim); }
+#reader .route { display: grid; grid-template-columns: auto 1fr; gap: 2px 12px; margin: 12px 0; font-size: 14px; }
+#reader .route dt { font: 11px/1.9 var(--sans); color: var(--ink-dim); text-transform: uppercase; letter-spacing: 0.06em; }
+#reader .route dd { margin: 0; }
+#reader details { margin: 10px 0; font-size: 13px; color: var(--ink-dim); }
+#reader summary { cursor: pointer; font: 12px var(--sans); }
+#reader article { margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--rule); font-size: 15.5px; line-height: 1.6; }
+#reader article p { margin: 0 0 0.7em; }
+#reader article p.indent { text-indent: 1.5em; }
+#reader article hr.whiteline { border: 0; height: 0.4em; margin: 0; }
+#reader article .note-ref a { font: 10px var(--sans); text-decoration: none; color: var(--vincent); }
+#reader article .notes { margin-top: 28px; padding-top: 12px; border-top: 1px solid var(--rule); font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
+#reader article .notes ol { padding-left: 1.4em; }
+#reader article .sketch::before { content: "[sketch]"; font: italic 12px var(--sans); color: var(--ink-dim); }
+#reader article .smallcaps { font-variant: small-caps; }
+#reader article a.letter-ref { color: var(--vincent); cursor: pointer; }
+#reader footer { margin-top: 24px; font: 11px var(--sans); color: var(--ink-dim); }
+
+#status {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-size: 18px;
+  color: var(--ink-dim);
+}

@@ -68,6 +68,23 @@ def main():
         p["map"] = base_map["positions"].get(pid)  # {x, y, printed} in scan pixels, or None if off the sheet
         out_places[pid] = p
     (OUT / "places.json").write_text(json.dumps(out_places, ensure_ascii=False, indent=1))
+    # Itineraries (stays only, no evidence) so the viewer can move people between places over time.
+    correspondents = json.loads((ROOT / "data" / "correspondents.json").read_text())
+    itins = {}
+    for path in sorted((ROOT / "data" / "itineraries").glob("*.json")):
+        spec = json.loads(path.read_text())
+        itins[path.stem] = {
+            "name": correspondents.get(path.stem, {}).get("name", path.stem),
+            "stays": sorted(({k: s[k] for k in ("place", "from", "to", "kind", "approx", "note") if k in s}
+                             for s in spec.get("stays", [])), key=lambda s: s["from"]),
+        }
+        for st in itins[path.stem]["stays"]:
+            if st["place"] in places and st["place"] not in out_places:
+                pl = places[st["place"]]
+                out_places[st["place"]] = {k: pl[k] for k in ("name", "lat", "lon", "kind", "country") if k in pl} | {
+                    "map": base_map["positions"].get(st["place"])}
+    (OUT / "places.json").write_text(json.dumps(out_places, ensure_ascii=False, indent=1))
+    (OUT / "itineraries.json").write_text(json.dumps(itins, ensure_ascii=False, indent=1))
     (OUT / "map.json").write_text(json.dumps(
         {k: base_map[k] for k in ("title", "authors", "publisher", "year", "scale", "source", "rights", "image", "size")}
         | {"pxPerKm": base_map["model"]["pxPerKm"]}, ensure_ascii=False, indent=1))
